@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title></title>
+		<style>
+			*{
+				margin: 0;
+				padding: 0;
+			}
+			body{
+				background-color: black;
+			}
+			p{
+				color: white;
+			}
+			#one{
+				display: flex;
+				justify-content: space-between;
+				align-items: center;
+				height: 120px;
+			}
+			#two{
+				height: 600px;
+			}
+			#three{
+				height: 120px;
+				display: flex;
+				justify-content: space-between;
+				margin-top: 15px;
+				margin-left: 50px;
+				line-height: 30px;
+			}
+			#img1{
+				height: 100%;
+				width: 100%;
+			}
+			#img2{
+				height: 100px;
+				width: 70px;
+				margin-right: 30px;
+			}
+			.img2{
+				height: 100px;
+				width: 70px;
+				margin-right: 30px;
+			}
+			.img2:hover{
+				height: 120px;
+				width: 84px;
+				margin-right: 16px;
+			}
+		</style>
+	</head>
+	<body>
+		<div id="one">
+			<div>
+				<p style="font-size: 30px;margin-left: 10px;">Unfamous</p>
+				<p style="font-size: 12px;margin-left: 130px;">but</p>
+				<p style="font-size: 30px;margin-left: 100px;">Interesting</p>
+			</div>
+			<div onclick="tz('overview.html')">
+				<p style="font-size: 18px;margin-right: 20px;">Overview</p>
+			</div>
+		</div>
+		<div id="two">
+			<img id="img1" src="img/海报1对应.png"/>
+		</div>
+		<div id="three">
+			<div style="text-align: center;">
+				<p style="font-size: 25px;">Los viajes del viento</p>
+				<p style="font-size: 18px;">Drama / Music</p>
+				<p style="font-size: 18px;">(2009)</p>
+			</div>
+			<div style="display: flex;">
+				<div>
+					<img class="img2" src="img/海报1.png"/>
+				</div>
+				<div>
+					<img class="img2" src="img/海报2.png"/>
+				</div>
+				<div>
+					<img class="img2" src="img/海报3.png"/>
+				</div>
+				<div>
+					<img class="img2" src="img/海报4.png"/>
+				</div>
+			</div>
+		</div>
+		<script>
+			function tz(x){
+				window.location.href=x
+			}
+		</script>
+	</body>
+</html>

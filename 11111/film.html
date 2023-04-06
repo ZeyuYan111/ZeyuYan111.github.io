@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title></title>
+		<style>
+			*{
+				margin: 0;
+				padding: 0;
+			}
+			body{
+				background-color: black;
+			}
+			img{
+				height: 200px;
+				width: 150px;
+			}
+			#one{
+				display: flex;
+				justify-content: space-between;
+				align-items: center;
+				height: 120px;
+			}
+			#two{
+				display: flex;
+				margin: auto;
+				text-align: center;
+				width: 1000px;
+				
+			}
+			#two_2{
+				margin-left: 40px;
+			
+				border-bottom: 1px solid #fff;
+				height: 150px;
+			}
+			#movie{
+				font-size: 26px;
+				color: #fff;
+			}
+			.p_2{
+				text-align: left;
+				font-size: 18px;
+				color: #fff;
+			}
+			.three{
+				margin: auto;
+				margin-top: 40px;
+				text-align: left;
+				width: 1000px;
+			}
+			.four{
+				display: flex;
+				margin-bottom: 50px;
+				
+			}
+			.four_2{
+				text-align: center;
+				margin-bottom: 20px;
+			}
+			.img_5{
+				height: 50px;
+				width: 50px;
+			}
+			.img_6{
+				width: 50%;
+				height: 50%;
+			}
+		</style>
+	</head>
+	<body>		
+		<div id="one">
+			<div>
+				<p style="font-size: 30px;margin-left: 10px; color: white;">Unfamous</p>
+				<p style="font-size: 12px;margin-left: 130px; color: white;">but</p>
+				<p style="font-size: 30px;margin-left: 100px; color: white;">Interesting</p>
+			</div>
+			<div style="text-align: right;">
+				<p onclick="tz('overview.html')" style="font-size: 18px;margin-right: 20px; color: white;">Overview</p>
+				<p onclick="tz('index.html')" style="font-size: 18px;margin-right: 20px; color: white;">Home</p>
+			</div>
+		</div>
+		<div id="two">
+			<img id="pic" src="img/1.png"/>
+			<div id="two_2">
+				<p id="movie">LSAF ASFDAS<span id="year" style="font-size: 16px;">&nbsp;&nbsp;&nbsp;aa</span></p>
+				<p id="type" class="p_2">asd</p>
+				<p id="country_of_origin" class="p_2">asd</p>
+				<p id="movie_year" class="p_2">asd</p>
+				<p id="length_of_movie" class="p_2">asd</p>
+			</div>
+		</div>
+		<div class="three">
+			<p style="color: aqua;font-size: 20px;">Summary</p>
+			<p id="brief_introduction" style="color: #fff;"></p>
+		</div>
+		<div class="three">
+			<p style="color: #fff;font-size: 30px;">Comments</p>
+		</div>
+		<div class="three" id="three">
+			
+		</div>
+		<div id="four" class="four_1"></div>
+		<script>
+			var url = window.location.href.split('#');
+			var number=url[1];
+			var url="a.json";
+			var request=new XMLHttpRequest();
+			request.open("get",url);
+			request.send(null);
+			request.onload=function(){
+				if(request.status==200){
+					var json=JSON.parse(request.responseText);
+					for(var i=0;i<json.length;i++){
+						if(json[i].number==number){
+							var x=json[i]
+							document.getElementById("pic").src=x.pic
+							document.getElementById("movie").innerText=x.movie
+							document.getElementById("brief_introduction").innerText=x.brief_introduction
+							document.getElementById("type").innerText=x.type
+							document.getElementById("country_of_origin").innerText=x.country_of_origin
+							document.getElementById("movie_year").innerText=x.movie_year
+							document.getElementById("length_of_movie").innerText=x.length_of_movie
+							
+							var xx=''
+							for(var j=0;j<x.comment_on.length;j++){
+								xx=xx+'<div class="four"></div>'
+							}
+							var xxx=''
+							for(var j=0;j<x.back_pic.length;j++){
+								xxx=xxx+'<div class="four_2"></div>'
+							}
+							document.getElementById('three').innerHTML=xx;
+							document.getElementById('four').innerHTML=xxx;
+							var u=document.getElementsByClassName('four_2')
+							for(var j=0;j<x.back_pic.length;j++){
+								
+								var uu=x.back_pic[j]
+								console.log(uu)
+								u[j].innerHTML='<img id="back_pic" class="img_6" src="'+uu+'"/>'
+							}
+							var z=document.getElementsByClassName('four')
+							for(var j=0;j<x.comment_on.length;j++){
+								var y=x.comment_on[j]
+								z[j].innerHTML='<img id="pic" class="img_5" src="'+y.pic+'"/><div style="margin-left: 20px;"><div style="display: flex;margin-bottom: 10px;"><p style="color: #fff;margin-right: 100px;">C</p><p id="data" style="color: #fff;">'+y.data+'</p></div><p id="comment_on" style="color: #fff;">'+y.comment_on+'</p></div>'
+							}
+						}
+					}
+				}
+			}
+		</script>
+		<script>
+			function tz(x){
+				window.location.href=x
+			}
+		</script>
+	</body>
+</html>
