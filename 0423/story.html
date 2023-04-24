@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title></title>
+		<style>
+			* {
+				margin: 0px;
+				padding: 0px;
+			}
+			
+			body {
+				background-color: rgb(51, 110, 189);
+			}
+			
+			a {
+				text-decoration: none;
+				color: #fff;
+				font-size: 26px;
+				font-weight: 500;
+			}
+			
+			.flex {
+				display: flex;
+			}
+			
+			#one {
+				width: 10%;
+			}
+			
+			#one>img {
+				width: 110px;
+				height: 100px;
+			}
+			
+			#two {
+				background-color: #fff;
+				height: 1000px;
+				width: 90%;
+				display: flex;
+			}
+			#three{
+				background-color: #fff;
+				height: 1000px;
+				width: 90%;
+				display: none;
+			}
+			.one {
+				width: 120px;
+				text-align: center;
+				line-height: 50px;
+				margin: auto;
+			}
+			#p{
+				width: 500px;
+				font-size: 22px;
+				margin-top: 200px;
+				margin-left: 150px;
+			}
+			#img{
+				margin-top: 180px;
+				margin-left: 100px;
+			}
+			#img>img{
+				width: 450px;
+				height: 450px;
+				border-radius: 20px;
+			}
+			#sj1{
+				width: 0px;
+				height: 0px;
+				border-top:20px solid #fff;
+				border-bottom: 20px solid #fff;
+				border-left: 20px solid #000;
+				border-right: 20px solid #fff;
+				margin-left: 440px;
+				margin-top: 100px;
+			}
+			#sj2{
+				display: none;
+				width: 0px;
+				height: 0px;
+				border-top:20px solid #fff;
+				border-bottom: 20px solid #fff;
+				border-left: 20px solid #fff;
+				border-right: 20px solid #000;
+				margin-left: 440px;
+				margin-top: 100px;
+			}
+			#p2{
+				display: none;
+			}
+		</style>
+	</head>
+	<body>
+		<div class="flex">
+			<div id="one">
+				<img src="img/7861682218553_.pic.jpg" />
+				<div style="margin-top: 200px;">
+					<div class="one"  style="border: #000 2px solid;">
+						<a href="story.html">Story</a>
+					</div>
+					<div class="one">
+						<a href="shop.html">Shop</a>
+					</div>
+					<div class="one">
+						<a href="show.html">Show</a>
+					</div>
+				</div>
+			</div>
+			<div id="two">
+				<div id="p">
+					<p id="p1">
+						We are surrounded by plastics.
+						Much of our furniture, clothing,
+						electronics, and food packaging is
+						made from it. Over the past decades,
+						natural materials used in
+						manufacturing such as paper, glass,
+						and cotton, have been replaced by
+						plastic. We know that this ubiquitous
+						use of plastics has led to extreme
+						plastic pollution of our environment.
+						However, plastics aren't just an
+						environmental issue. As pointed out by
+						toxicologist Prof. dr. Dick Vethaak "we
+						are dealing with a human health issue
+						as well".
+					</p>
+					<p id="p2">
+						Plastics may affect our health via three
+						pathways:
+						1. We eat, drink and breathe microplastics
+						every day. These small plastic particles
+						may harm our health once they have
+						entered our bodies.
+						2. Plastic products contain chemical additives.
+						A number of these chemicals have been
+						associated with serious health problems
+						such as hormone-related cancers, infertility
+						and neurodevelopment disorders like ADHD
+						and autism.
+						3. When plastics and microplastics end up in
+						the environment, they attract micro-
+						organisms, such as harmful bacteria
+						(pathogens). If microplastics containing
+						these pathogens enter our body, they may
+						increase the risk of infection.
+					</p>
+				</div>
+				<div id="img">
+					<img id="img1" src="img/bag1.png"/>
+					<div id="sj1" onclick="sj1()">
+						
+					</div>
+					<div id="sj2" onclick="sj2()">
+						
+					</div>
+				</div>
+			</div>
+		</div>
+		<script>
+			function sj1(){
+				document.getElementById("p1").style.display='none'
+				document.getElementById("p2").style.display='block'
+				document.getElementById("img1").src='img/eat.png'
+				document.getElementById("sj1").style.display='none'
+				document.getElementById("sj2").style.display='block'
+			}
+			function sj2(){
+				document.getElementById("p2").style.display='none'
+				document.getElementById("p1").style.display='block'
+				document.getElementById("img1").src='img/bag1.png'
+				document.getElementById("sj2").style.display='none'
+				document.getElementById("sj1").style.display='block'
+			}
+		</script>
+	</body>
+</html>

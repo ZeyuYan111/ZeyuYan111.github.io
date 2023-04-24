@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title></title>
+		<style>
+			* {
+				margin: 0px;
+				padding: 0px;
+			}
+
+			body {
+				background-color: rgb(51, 110, 189);
+			}
+
+			a {
+				text-decoration: none;
+				color: #fff;
+				font-size: 26px;
+				font-weight: 500;
+			}
+
+			.flex {
+				display: flex;
+			}
+
+			#one {
+				width: 10%;
+			}
+
+			#one>img {
+				width: 110px;
+				height: 100px;
+			}
+
+			#two {
+				background-color: #fff;
+				height: 1000px;
+				width: 90%;
+			}
+
+			.one {
+				width: 120px;
+				text-align: center;
+				line-height: 50px;
+				margin: auto;
+			}
+			.two{
+				display: flex;
+				justify-content: space-evenly;
+				margin-top: 50px;
+			}
+			.three{
+				border: 1px solid #000;
+				border-radius: 20px;
+			}
+			.three>img{
+				height: 200px;
+				width: 200px;
+			}
+		</style>
+	</head>
+	<body>
+		<div class="flex">
+			<div id="one">
+				<img src="img/7861682218553_.pic.jpg" />
+				<div style="margin-top: 200px;">
+					<div class="one">
+						<a href="story.html">Story</a>
+					</div>
+					<div class="one" style="border: #000 2px solid;">
+						<a href="shop.html">Shop</a>
+					</div>
+					<div class="one">
+						<a href="show.html">Show</a>
+					</div>
+				</div>
+			</div>
+			<div id="two">
+				<div class="two">
+					<div class="three" onclick="tz('img/lv1.png')">
+						<img src="img/lv1.png"/>
+					</div>
+					<div class="three" onclick="tz('img/lv2.png')">
+						<img src="img/lv2.png"/>
+					</div>
+					<div class="three" onclick="tz('img/lv3.png')">
+						<img src="img/lv3.png"/>
+					</div>
+					<div class="three" onclick="tz('img/lv4.png')">
+						<img src="img/lv4.png"/>
+					</div>
+				</div>
+				<div class="two">
+					<div class="three" onclick="tz('img/gu1.png')">
+						<img src="img/gu1.png"/>
+					</div>
+					<div class="three" onclick="tz('img/gu2.png')">
+						<img src="img/gu2.png"/>
+					</div>
+					<div class="three" onclick="tz('img/gu3.png')">
+						<img src="img/gu3.png"/>
+					</div>
+					<div class="three" onclick="tz('img/gu4.png')">
+						<img src="img/gu4.png"/>
+					</div>
+				</div>
+				<div class="two">
+					<div class="three" onclick="tz('img/ch1.png')">
+						<img src="img/ch1.png"/>
+					</div>
+					<div class="three" onclick="tz('img/ch2.png')">
+						<img src="img/ch2.png"/>
+					</div>
+					<div class="three" onclick="tz('img/ch3.png')">
+						<img src="img/ch3.png"/>
+					</div>
+					<div class="three" onclick="tz('img/ch4.png')">
+						<img src="img/ch4.png"/>
+					</div>
+				</div>
+			</div>
+		</div>
+		<script>
+			function tz(x){
+				window.location.href='shopping.html?'+x
+			}
+		</script>
+	</body>
+</html>

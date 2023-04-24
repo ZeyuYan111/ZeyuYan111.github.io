@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title></title>
+		<style>
+			* {
+				margin: 0px;
+				padding: 0px;
+			}
+			
+			body {
+				background-color: rgb(51, 110, 189);
+			}
+			
+			a {
+				text-decoration: none;
+				color: #fff;
+				font-size: 26px;
+				font-weight: 500;
+			}
+			
+			.flex {
+				display: flex;
+			}
+			
+			#one {
+				width: 10%;
+			}
+			
+			#one>img {
+				width: 110px;
+				height: 100px;
+			}
+			
+			#two {
+				background-color: #fff;
+				height: 1000px;
+				width: 90%;
+				display: flex;
+			}
+			#two_1{
+				width: 500px;
+				height: 500px;
+				margin-top: 150px;
+				margin-left: 100px;
+			}
+			#two_2{
+				height: 60px;
+				width: 65px;
+				margin-left: 50px;
+			}
+			.one {
+				width: 120px;
+				text-align: center;
+				line-height: 50px;
+				margin: auto;
+			}
+			#button{
+				height: 80px;
+				width: 300px;
+				border: 1px solid #000;
+				border-radius: 40px;
+				text-align: center;
+				line-height: 78px;
+				font-size: 22px;
+				margin-top: 100px;
+			}
+			#p1{
+				font-size: 22px;
+				border-bottom: #000 1px solid;
+				width: 120px;
+			}
+			#div1{
+				margin-top: 200px;
+				margin-left: 100px;
+			}
+			#div2>p{
+				font-size: 10px;
+			}
+			.div3{
+				margin-top: 30px;
+			}
+		</style>
+	</head>
+	<body>
+		<div class="flex">
+			<div id="one">
+				<img src="img/7861682218553_.pic.jpg" />
+				<div style="margin-top: 200px;">
+					<div class="one">
+						<a href="story.html">Story</a>
+					</div>
+					<div class="one" style="border: #000 2px solid;">
+						<a href="shop.html">Shop</a>
+					</div>
+					<div class="one">
+						<a href="show.html">Show</a>
+					</div>
+				</div>
+			</div>
+			<div id="two">
+				<img id="two_1" src="img/ch1.png"/>
+				<div id="div1">
+					<div class="flex">
+						<div id="div2">
+							<div id="p1">
+								<p>Soil No.1</p>
+							</div>
+							<p style="margin-top: 10px;">$19999.00</p>
+							<p id="p2">Plastic bag luxury No.1</p>
+						</div>
+						<img id="two_2" src="img/7861682218553_.pic.jpg"/>
+					</div>
+					<div class="flex div3">
+						<p>Material:</p><p style="margin-left: 100px;">plastic</p>
+					</div>
+					<div class="flex div3">
+						<p>Manufacturer:</p><p style="margin-left: 60px;" id="p3">Louis Vuitton</p>
+					</div>
+					<div id="button">
+						<p>Coming soon...</p>
+					</div>
+				</div>
+			</div>
+		</div>
+		<script>
+			var x=window.location.href.split('?')
+			document.getElementById('two_1').src=x[1]
+			var url="sj.json";
+			var request=new XMLHttpRequest();
+			request.open("get",url);
+			request.send(null);
+			request.onload=function(){
+				if(request.status==200){
+					var json=JSON.parse(request.responseText);
+					for (var i=0;i<json.length;i++){
+						if(json[i].img==x[1]){
+							document.getElementById("p1").innerHTML='<p>'+json[i].name+'</p>'
+							document.getElementById("p2").innerHTML=json[i].number
+							document.getElementById("p3").innerHTML=json[i].manufacturer
+						}
+					}
+				}
+			}
+		</script>
+	</body>
+</html>
