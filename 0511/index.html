@@ -1,0 +1,719 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title></title>
+		<script src="https://d3js.org/d3.v7.min.js"></script>
+		<style>
+			* {
+				margin: 0px;
+				padding: 0px;
+			}
+
+			.one {
+				margin-top: 5vh;
+				height: 80vh;
+				width: 15vw;
+			}
+			.one>p{
+				text-align: center;
+				position: relative;
+				top: 80vh;
+				font-size: 1.5vw;
+			}
+			.one>div>div>img{
+				height: 1vw;
+				width: 1vw;
+			}
+			.two {
+				display: flex;
+				height: 4.9vh;
+			}
+			#rangeValue{
+				
+			}
+			#rangeValue>p{
+				font-size: 1.5vw;
+			}
+			.two>img {
+				height: 4.5vh;
+				width: 4.5vh;
+			}
+
+			.two>p {
+				font-size: 0.5vw;
+			}
+
+			#jdt {
+				background-color: coral;
+				height: 5px;
+				width: 50vw;
+				margin: auto;
+			}
+			.slider {
+				margin: auto;
+				width: 50vw;
+				height: 5vw;
+				display: flex;
+				align-items: center;
+			}
+			.slider p {
+				font-size: 26px;
+				font-weight: 600;
+				font-family: Open Sans;
+				
+				color: #000;
+			}
+
+			.slider input[type="range"] {
+				margin: auto;
+				-webkit-appearance: none !important;
+				width: 20vw;
+				height: 2px;
+				background: black;
+				border: none;
+				outline: none;
+			}
+
+			.slider input[type="range"]::-webkit-slider-thumb {
+				-webkit-appearance: none !important;
+				width: 30px;
+				height: 30px;
+				background: black;
+				border: 2px solid black;
+				border-radius: 50%;
+				cursor: pointer;
+			}
+
+			.slider input[type="range"]::-webkit-slider-thumb:hover {
+				background: black;
+			}
+		</style>
+	</head>
+	<body>
+		<div style="display: flex;margin: auto;justify-content: center;margin-bottom: 4vh;">
+			<div class="one">
+				<div class="two">
+					<img src="img/Birds.png" />
+					<p>Birds</p>
+				</div>
+				<div class="two">
+					<img src="img/Coyotes.png" />
+					<p>Coyotes</p>
+				</div>
+				<div class="two">
+					<img src="img/Deer.png" />
+					<p>Deer</p>
+				</div>
+				<div class="two">
+					<img src="img/Domestic;Birds.png" />
+					<p>Domestic;Birds</p>
+				</div>
+				<div class="two">
+					<img src="img/Domestic.png" />
+					<p>Domestic</p>
+				</div>
+				<div class="two">
+					<img src="img/Fish-numerous quantity.png" />
+					<p>Fish-numerous quantity</p>
+				</div>
+				<div class="two">
+					<img src="img/Marine Mammals-seals only.png" />
+					<p>Marine Mammals-seals only</p>
+				</div>
+				<div class="two">
+					<img src="img/Marine Mammals-whales, Dolphin.png" />
+					<p>Marine Mammals-whales, Dolphin</p>
+				</div>
+				<div class="two">
+					<img src="img/Marine Reptiles.png" />
+					<p>Marine Reptiles</p>
+				</div>
+				<div class="two">
+					<img src="img/Non Native Fish-(invasive).png" />
+					<p>Non Native Fish-(invasive)</p>
+				</div>
+				<div class="two">
+					<img src="img/Raptors.png" />
+					<p>Raptors</p>
+				</div>
+				<div class="two">
+					<img src="img/Rare, Endangered, Dangerous.png" />
+					<p>Rare, Endangered, Dangerous</p>
+				</div>
+				<div class="two">
+					<img src="img/Small Mammals-non RVS.png" />
+					<p>Small Mammals-non RVS</p>
+				</div>
+				<div class="two">
+					<img src="img/Small Mammals-RVS;Domestic.png" />
+					<p>Small Mammals-RVS;Domestic</p>
+				</div>
+				<div class="two">
+					<img src="img/Small Mammals-RVS.png" />
+					<p>Small Mammals-RVS</p>
+				</div>
+				<div class="two">
+					<img src="img/Terrestrial Reptile or Amphibian.png" />
+					<p>Terrestrial Reptile or Amphibian</p>
+				</div>
+			</div>
+			<div class="one" style="background-color: cadetblue;">
+				<p>Manhattan</p>
+				<div style="position: relative;top: -2vw;">
+					<div id='one'>
+					</div>
+				</div>
+				
+				
+			</div>
+			<div class="one" style="background-color: aquamarine;">
+				<p>Brooklyn</p>
+				<div style="position: relative;top: -2vw;">
+					<div id='two'>
+						
+					</div>
+				</div>
+				
+				
+			</div>
+			<div class="one" style="background-color: bisque;">
+				<p>Queens</p>
+				<div style="position: relative;top: -2vw;">
+				<div id='three'>
+					
+				</div>
+				</div>
+			</div>
+			<div class="one" style="background-color: coral;">
+				<p>Bronx</p>
+				<div style="position: relative;top: -2vw;">
+				<div id='four'>
+					
+				</div>
+				</div>
+			</div>
+			<div class="one" style="background-color: cornflowerblue;">
+				<p>Staten Island</p>
+				<div style="position: relative;top: -2vw;">
+				<div id='five'>
+					
+				</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="slider">
+			
+			<input id="range" type="range" min="0" max="13" value="0" onmouseup="yd()">
+			<div id="rangeValue">
+				<p style="color: #fff;">202006——202006</p>
+			</div>
+			
+		</div>
+		<script>
+			var s;
+			var json;
+			var url = "jsonformatter.json";
+			var datas=['2020-06','2020-07','2020-08','2020-09','2020-10','2020-11','2020-12','2021-01','2021-02','2021-03','2021-04','2021-05','2021-06']
+			var request = new XMLHttpRequest();
+			request.open("get", url);
+			request.send(null);
+			request.onload = function() {
+				if (request.status == 200) {
+				  json=JSON.parse(request.responseText);
+				}
+			}
+			
+			function yd(){
+				var x=document.getElementById('range').value
+				if(x=='0'){
+					s='202006——202006'
+					document.getElementById('rangeValue').innerHTML="<p style='color:#fff'>"+s+"</p>"
+				}else{
+					if(x=='1'){
+						s='202006——202006'
+					}else if(x=='2'){
+						s='202006——202007'
+					}else if(x=='3'){
+						s='202006——202008'
+					}else if(x=='4'){
+						s='202006——202009'
+					}else if(x=='5'){
+						s='202006——202010'
+					}else if(x=='6'){
+						s='202006——202011'
+					}else if(x=='7'){
+						s='202006——202012'
+					}else if(x=='8'){
+						s='202006——202101'
+					}else if(x=='9'){
+						s='202006——202102'
+					}else if(x=='10'){
+						s='202006——202103'
+					}else if(x=='11'){
+						s='202006——202104'
+					}else if(x=='12'){
+						s='202006——202105'
+					}else if(x=='13'){
+						s='202006——202106'
+					}
+					document.getElementById('rangeValue').innerHTML='<p>'+s+'</p>'
+				}
+				var Manhattan=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0];
+				var Brooklyn=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0];
+				var Queens=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0];
+				var Bronx=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0];
+				var Staten=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0];
+				for (var i = 0; i < json.length; i++) {
+					var data=parseInt(x);
+					var dataa=String(json[i].date_and_time_of_ranger).substring(0,7);
+					for(var j=0;j<parseInt(x);j++){
+						if(dataa==datas[j]){
+							if(json[i].borough=='Manhattan'){
+								if(json[i].animal_class=='Birds'){
+									Manhattan[0]=Manhattan[0]+1
+								}else if(json[i].animal_class=='Coyotes'){
+									Manhattan[1]=Manhattan[1]+1
+								}else if(json[i].animal_class=='Deer'){
+									Manhattan[2]=Manhattan[2]+1
+								}else if(json[i].animal_class=='Domestic;#Birds'){
+									Manhattan[3]=Manhattan[3]+1
+								}else if(json[i].animal_class=='Domestic'){
+									Manhattan[4]=Manhattan[4]+1
+								}else if(json[i].animal_class=='Fish-numerous quantity'){
+									Manhattan[5]=Manhattan[5]+1
+								}else if(json[i].animal_class=='Marine Mammals-seals only'){
+									Manhattan[6]=Manhattan[6]+1
+								}else if(json[i].animal_class=='Marine Mammals-whales, Dolphin'){
+									Manhattan[7]=Manhattan[7]+1
+								}else if(json[i].animal_class=='Marine Reptiles'){
+									Manhattan[8]=Manhattan[8]+1
+								}else if(json[i].animal_class=='Non Native Fish-(invasive)'){
+									Manhattan[9]=Manhattan[9]+1
+								}else if(json[i].animal_class=='Raptors'){
+									Manhattan[10]=Manhattan[10]+1
+								}else if(json[i].animal_class=='Rare, Endangered, Dangerous'){
+									Manhattan[11]=Manhattan[11]+1
+								}else if(json[i].animal_class=='Small Mammals-non RVS'){
+									Manhattan[12]=Manhattan[12]+1
+								}else if(json[i].animal_class=='Small Mammals-RVS;#Domestic'){
+									Manhattan[13]=Manhattan[13]+1
+								}else if(json[i].animal_class=='Small Mammals-RVS'){
+									Manhattan[14]=Manhattan[14]+1
+								}else if(json[i].animal_class=='Terrestrial Reptile or Amphibian'){
+									Manhattan[15]=Manhattan[15]+1
+								}
+							}
+							if(json[i].borough=='Brooklyn'){
+								if(json[i].animal_class=='Birds'){
+									Brooklyn[0]=Brooklyn[0]+1
+								}else if(json[i].animal_class=='Coyotes'){
+									Brooklyn[1]=Brooklyn[1]+1
+								}else if(json[i].animal_class=='Deer'){
+									Brooklyn[2]=Brooklyn[2]+1
+								}else if(json[i].animal_class=='Domestic;#Birds'){
+									Brooklyn[3]=Brooklyn[3]+1
+								}else if(json[i].animal_class=='Domestic'){
+									Brooklyn[4]=Brooklyn[4]+1
+								}else if(json[i].animal_class=='Fish-numerous quantity'){
+									Brooklyn[5]=Brooklyn[5]+1
+								}else if(json[i].animal_class=='Marine Mammals-seals only'){
+									Brooklyn[6]=Brooklyn[6]+1
+								}else if(json[i].animal_class=='Marine Mammals-whales, Dolphin'){
+									Brooklyn[7]=Brooklyn[7]+1
+								}else if(json[i].animal_class=='Marine Reptiles'){
+									Brooklyn[8]=Brooklyn[8]+1
+								}else if(json[i].animal_class=='Non Native Fish-(invasive)'){
+									Brooklyn[9]=Brooklyn[9]+1
+								}else if(json[i].animal_class=='Raptors'){
+									Brooklyn[10]=Brooklyn[10]+1
+								}else if(json[i].animal_class=='Rare, Endangered, Dangerous'){
+									Brooklyn[11]=Brooklyn[11]+1
+								}else if(json[i].animal_class=='Small Mammals-non RVS'){
+									Brooklyn[12]=Brooklyn[12]+1
+								}else if(json[i].animal_class=='Small Mammals-RVS;#Domestic'){
+									Brooklyn[13]=Brooklyn[13]+1
+								}else if(json[i].animal_class=='Small Mammals-RVS'){
+									Brooklyn[14]=Brooklyn[14]+1
+								}else if(json[i].animal_class=='Terrestrial Reptile or Amphibian'){
+									Brooklyn[15]=Brooklyn[15]+1
+								}
+							}
+							if(json[i].borough=='Queens'){
+								if(json[i].animal_class=='Birds'){
+									Queens[0]=Queens[0]+1
+								}else if(json[i].animal_class=='Coyotes'){
+									Queens[1]=Queens[1]+1
+								}else if(json[i].animal_class=='Deer'){
+									Queens[2]=Queens[2]+1
+								}else if(json[i].animal_class=='Domestic;#Birds'){
+									Queens[3]=Queens[3]+1
+								}else if(json[i].animal_class=='Domestic'){
+									Queens[4]=Queens[4]+1
+								}else if(json[i].animal_class=='Fish-numerous quantity'){
+									Queens[5]=Queens[5]+1
+								}else if(json[i].animal_class=='Marine Mammals-seals only'){
+									Queens[6]=Queens[6]+1
+								}else if(json[i].animal_class=='Marine Mammals-whales, Dolphin'){
+									Queens[7]=Queens[7]+1
+								}else if(json[i].animal_class=='Marine Reptiles'){
+									Queens[8]=Queens[8]+1
+								}else if(json[i].animal_class=='Non Native Fish-(invasive)'){
+									Queens[9]=Queens[9]+1
+								}else if(json[i].animal_class=='Raptors'){
+									Queens[10]=Queens[10]+1
+								}else if(json[i].animal_class=='Rare, Endangered, Dangerous'){
+									Queens[11]=Queens[11]+1
+								}else if(json[i].animal_class=='Small Mammals-non RVS'){
+									Queens[12]=Queens[12]+1
+								}else if(json[i].animal_class=='Small Mammals-RVS;#Domestic'){
+									Queens[13]=Queens[13]+1
+								}else if(json[i].animal_class=='Small Mammals-RVS'){
+									Queens[14]=Queens[14]+1
+								}else if(json[i].animal_class=='Terrestrial Reptile or Amphibian'){
+									Queens[15]=Queens[15]+1
+								}
+							}
+							if(json[i].borough=='Bronx'){
+								if(json[i].animal_class=='Birds'){
+									Bronx[0]=Bronx[0]+1
+								}else if(json[i].animal_class=='Coyotes'){
+									Bronx[1]=Bronx[1]+1
+								}else if(json[i].animal_class=='Deer'){
+									Bronx[2]=Bronx[2]+1
+								}else if(json[i].animal_class=='Domestic;#Birds'){
+									Bronx[3]=Bronx[3]+1
+								}else if(json[i].animal_class=='Domestic'){
+									Bronx[4]=Bronx[4]+1
+								}else if(json[i].animal_class=='Fish-numerous quantity'){
+									Bronx[5]=Bronx[5]+1
+								}else if(json[i].animal_class=='Marine Mammals-seals only'){
+									Bronx[6]=Bronx[6]+1
+								}else if(json[i].animal_class=='Marine Mammals-whales, Dolphin'){
+									Bronx[7]=Bronx[7]+1
+								}else if(json[i].animal_class=='Marine Reptiles'){
+									Bronx[8]=Bronx[8]+1
+								}else if(json[i].animal_class=='Non Native Fish-(invasive)'){
+									Bronx[9]=Bronx[9]+1
+								}else if(json[i].animal_class=='Raptors'){
+									Bronx[10]=Bronx[10]+1
+								}else if(json[i].animal_class=='Rare, Endangered, Dangerous'){
+									Bronx[11]=Bronx[11]+1
+								}else if(json[i].animal_class=='Small Mammals-non RVS'){
+									Bronx[12]=Bronx[12]+1
+								}else if(json[i].animal_class=='Small Mammals-RVS;#Domestic'){
+									Bronx[13]=Bronx[13]+1
+								}else if(json[i].animal_class=='Small Mammals-RVS'){
+									Bronx[14]=Bronx[14]+1
+								}else if(json[i].animal_class=='Terrestrial Reptile or Amphibian'){
+									Bronx[15]=Bronx[15]+1
+								}
+							}
+							if(json[i].borough=='Staten Island'){
+								if(json[i].animal_class=='Birds'){
+									Staten[0]=Staten[0]+1
+								}else if(json[i].animal_class=='Coyotes'){
+									Staten[1]=Staten[1]+1
+								}else if(json[i].animal_class=='Deer'){
+									Staten[2]=Staten[2]+1
+								}else if(json[i].animal_class=='Domestic;#Birds'){
+									Staten[3]=Staten[3]+1
+								}else if(json[i].animal_class=='Domestic'){
+									Staten[4]=Staten[4]+1
+								}else if(json[i].animal_class=='Fish-numerous quantity'){
+									Staten[5]=Staten[5]+1
+								}else if(json[i].animal_class=='Marine Mammals-seals only'){
+									Staten[6]=Staten[6]+1
+								}else if(json[i].animal_class=='Marine Mammals-whales, Dolphin'){
+									Staten[7]=Staten[7]+1
+								}else if(json[i].animal_class=='Marine Reptiles'){
+									Staten[8]=Staten[8]+1
+								}else if(json[i].animal_class=='Non Native Fish-(invasive)'){
+									Staten[9]=Staten[9]+1
+								}else if(json[i].animal_class=='Raptors'){
+									Staten[10]=Staten[10]+1
+								}else if(json[i].animal_class=='Rare, Endangered, Dangerous'){
+									Staten[11]=Staten[11]+1
+								}else if(json[i].animal_class=='Small Mammals-non RVS'){
+									Staten[12]=Staten[12]+1
+								}else if(json[i].animal_class=='Small Mammals-RVS;#Domestic'){
+									Staten[13]=Staten[13]+1
+								}else if(json[i].animal_class=='Small Mammals-RVS'){
+									Staten[14]=Staten[14]+1
+								}else if(json[i].animal_class=='Terrestrial Reptile or Amphibian'){
+									Manhattan[15]=Manhattan[15]+1
+								}
+							}
+						}
+					}
+				}
+				var Manhattan_1='';
+				var Brooklyn_1='';
+				var Queens_1='';
+				var Bronx_1='';
+				var Staten_1='';
+				for(var i=0;i<Manhattan[0];i++){
+					Manhattan_1=Manhattan_1+"<img src='img/Birds.png'/>"
+				}
+				for(var i=0;i<Brooklyn[0];i++){
+					Brooklyn_1=Brooklyn_1+"<img src='img/Birds.png'/>"
+				}
+				for(var i=0;i<Queens[0];i++){
+					Queens_1=Queens_1+"<img src='img/Birds.png'/>"
+				}
+				for(var i=0;i<Bronx[0];i++){
+					Bronx_1=Bronx_1+"<img src='img/Birds.png'/>"
+				}
+				for(var i=0;i<Staten[0];i++){
+					Staten_1=Staten_1+"<img src='img/Birds.png'/>"
+				}
+				
+				for(var i=0;i<Manhattan[1];i++){
+					Manhattan_1=Manhattan_1+"<img src='img/Coyotes.png'/>"
+				}
+				for(var i=0;i<Brooklyn[1];i++){
+					Brooklyn_1=Brooklyn_1+"<img src='img/Coyotes.png'/>"
+				}
+				for(var i=0;i<Queens[1];i++){
+					Queens_1=Queens_1+"<img src='img/Coyotes.png'/>"
+				}
+				for(var i=0;i<Bronx[1];i++){
+					Bronx_1=Bronx_1+"<img src='img/Coyotes.png'/>"
+				}
+				for(var i=0;i<Staten[1];i++){
+					Staten_1=Staten_1+"<img src='img/Coyotes.png'/>"
+				}
+				
+				for(var i=0;i<Manhattan[2];i++){
+					Manhattan_1=Manhattan_1+"<img src='img/Deer.png'/>"
+				}
+				for(var i=0;i<Brooklyn[2];i++){
+					Brooklyn_1=Brooklyn_1+"<img src='img/Deer.png'/>"
+				}
+				for(var i=0;i<Queens[2];i++){
+					Queens_1=Queens_1+"<img src='img/Deer.png'/>"
+				}
+				for(var i=0;i<Bronx[2];i++){
+					Bronx_1=Bronx_1+"<img src='img/Deer.png'/>"
+				}
+				for(var i=0;i<Staten[2];i++){
+					Staten_1=Staten_1+"<img src='img/Deer.png'/>"
+				}
+				
+				for(var i=0;i<Manhattan[3];i++){
+					Manhattan_1=Manhattan_1+"<img src='img/Domestic;Birds.png'/>"
+				}
+				for(var i=0;i<Brooklyn[3];i++){
+					Brooklyn_1=Brooklyn_1+"<img src='img/Domestic;Birds.png'/>"
+				}
+				for(var i=0;i<Queens[3];i++){
+					Queens_1=Queens_1+"<img src='img/Domestic;Birds.png'/>"
+				}
+				for(var i=0;i<Bronx[3];i++){
+					Bronx_1=Bronx_1+"<img src='img/Domestic;Birds.png'/>"
+				}
+				for(var i=0;i<Staten[3];i++){
+					Staten_1=Staten_1+"<img src='img/Domestic;Birds.png'/>"
+				}
+				
+				for(var i=0;i<Manhattan[4];i++){
+					Manhattan_1=Manhattan_1+"<img src='img/Domestic.png'/>"
+				}
+				for(var i=0;i<Brooklyn[4];i++){
+					Brooklyn_1=Brooklyn_1+"<img src='img/Domestic.png'/>"
+				}
+				for(var i=0;i<Queens[4];i++){
+					Queens_1=Queens_1+"<img src='img/Domestic.png'/>"
+				}
+				for(var i=0;i<Bronx[4];i++){
+					Bronx_1=Bronx_1+"<img src='img/Domestic.png'/>"
+				}
+				for(var i=0;i<Staten[4];i++){
+					Staten_1=Staten_1+"<img src='img/Domestic.png'/>"
+				}
+				
+				for(var i=0;i<Manhattan[5];i++){
+					Manhattan_1=Manhattan_1+"<img src='img/Fish-numerous quantity.png'/>"
+				}
+				for(var i=0;i<Brooklyn[5];i++){
+					Brooklyn_1=Brooklyn_1+"<img src='img/Fish-numerous quantity.png'/>"
+				}
+				for(var i=0;i<Queens[5];i++){
+					Queens_1=Queens_1+"<img src='img/Fish-numerous quantity.png'/>"
+				}
+				for(var i=0;i<Bronx[5];i++){
+					Bronx_1=Bronx_1+"<img src='img/Fish-numerous quantity.png'/>"
+				}
+				for(var i=0;i<Staten[5];i++){
+					Staten_1=Staten_1+"<img src='img/Fish-numerous quantity.png'/>"
+				}
+				
+				for(var i=0;i<Manhattan[6];i++){
+					Manhattan_1=Manhattan_1+"<img src='img/Marine Mammals-seals only.png'/>"
+				}
+				for(var i=0;i<Brooklyn[6];i++){
+					Brooklyn_1=Brooklyn_1+"<img src='img/Marine Mammals-seals only.png'/>"
+				}
+				for(var i=0;i<Queens[6];i++){
+					Queens_1=Queens_1+"<img src='img/Marine Mammals-seals only.png'/>"
+				}
+				for(var i=0;i<Bronx[6];i++){
+					Bronx_1=Bronx_1+"<img src='img/Marine Mammals-seals only.png'/>"
+				}
+				for(var i=0;i<Staten[6];i++){
+					Staten_1=Staten_1+"<img src='img/Marine Mammals-seals only.png'/>"
+				}
+				
+				for(var i=0;i<Manhattan[7];i++){
+					Manhattan_1=Manhattan_1+"<img src='img/Marine Mammals-whales, Dolphin.png'/>"
+				}
+				for(var i=0;i<Brooklyn[7];i++){
+					Brooklyn_1=Brooklyn_1+"<img src='img/Marine Mammals-whales, Dolphin.png'/>"
+				}
+				for(var i=0;i<Queens[7];i++){
+					Queens_1=Queens_1+"<img src='img/Marine Mammals-whales, Dolphin.png'/>"
+				}
+				for(var i=0;i<Bronx[7];i++){
+					Bronx_1=Bronx_1+"<img src='img/Marine Mammals-whales, Dolphin.png'/>"
+				}
+				for(var i=0;i<Staten[7];i++){
+					Staten_1=Staten_1+"<img src='img/Marine Mammals-whales, Dolphin.png'/>"
+				}
+				
+				for(var i=0;i<Manhattan[8];i++){
+					Manhattan_1=Manhattan_1+"<img src='img/Marine Reptiles.png'/>"
+				}
+				for(var i=0;i<Brooklyn[8];i++){
+					Brooklyn_1=Brooklyn_1+"<img src='img/Marine Reptiles.png'/>"
+				}
+				for(var i=0;i<Queens[8];i++){
+					Queens_1=Queens_1+"<img src='img/Marine Reptiles.png'/>"
+				}
+				for(var i=0;i<Bronx[8];i++){
+					Bronx_1=Bronx_1+"<img src='img/Marine Reptiles.png'/>"
+				}
+				for(var i=0;i<Staten[8];i++){
+					Staten_1=Staten_1+"<img src='img/Marine Reptiles.png'/>"
+				}
+				
+				for(var i=0;i<Manhattan[9];i++){
+					Manhattan_1=Manhattan_1+"<img src='img/Non Native Fish-(invasive).png'/>"
+				}
+				for(var i=0;i<Brooklyn[9];i++){
+					Brooklyn_1=Brooklyn_1+"<img src='img/Non Native Fish-(invasive).png'/>"
+				}
+				for(var i=0;i<Queens[9];i++){
+					Queens_1=Queens_1+"<img src='img/Non Native Fish-(invasive).png'/>"
+				}
+				for(var i=0;i<Bronx[9];i++){
+					Bronx_1=Bronx_1+"<img src='img/Non Native Fish-(invasive).png'/>"
+				}
+				for(var i=0;i<Staten[9];i++){
+					Staten_1=Staten_1+"<img src='img/Non Native Fish-(invasive).png'/>"
+				}
+				
+				for(var i=0;i<Manhattan[10];i++){
+					Manhattan_1=Manhattan_1+"<img src='img/Raptors.png'/>"
+				}
+				for(var i=0;i<Brooklyn[10];i++){
+					Brooklyn_1=Brooklyn_1+"<img src='img/Raptors.png'/>"
+				}
+				for(var i=0;i<Queens[10];i++){
+					Queens_1=Queens_1+"<img src='img/Raptors.png'/>"
+				}
+				for(var i=0;i<Bronx[10];i++){
+					Bronx_1=Bronx_1+"<img src='img/Raptors.png'/>"
+				}
+				for(var i=0;i<Staten[10];i++){
+					Staten_1=Staten_1+"<img src='img/Raptors.png'/>"
+				}
+				
+				for(var i=0;i<Manhattan[11];i++){
+					Manhattan_1=Manhattan_1+"<img src='img/Rare, Endangered, Dangerous.png'/>"
+				}
+				for(var i=0;i<Brooklyn[11];i++){
+					Brooklyn_1=Brooklyn_1+"<img src='img/Rare, Endangered, Dangerous.png'/>"
+				}
+				for(var i=0;i<Queens[11];i++){
+					Queens_1=Queens_1+"<img src='img/Rare, Endangered, Dangerous.png'/>"
+				}
+				for(var i=0;i<Bronx[11];i++){
+					Bronx_1=Bronx_1+"<img src='img/Rare, Endangered, Dangerous.png'/>"
+				}
+				for(var i=0;i<Staten[11];i++){
+					Staten_1=Staten_1+"<img src='img/Rare, Endangered, Dangerous.png'/>"
+				}
+				
+				for(var i=0;i<Manhattan[12];i++){
+					Manhattan_1=Manhattan_1+"<img src='img/Small Mammals-non RVS.png'/>"
+				}
+				for(var i=0;i<Brooklyn[12];i++){
+					Brooklyn_1=Brooklyn_1+"<img src='img/Small Mammals-non RVS.png'/>"
+				}
+				for(var i=0;i<Queens[12];i++){
+					Queens_1=Queens_1+"<img src='img/Small Mammals-non RVS.png'/>"
+				}
+				for(var i=0;i<Bronx[12];i++){
+					Bronx_1=Bronx_1+"<img src='img/Small Mammals-non RVS.png'/>"
+				}
+				for(var i=0;i<Staten[12];i++){
+					Staten_1=Staten_1+"<img src='img/Small Mammals-non RVS.png'/>"
+				}
+				
+				for(var i=0;i<Manhattan[13];i++){
+					Manhattan_1=Manhattan_1+"<img src='img/Small Mammals-RVS;Domestic.png'/>"
+				}
+				for(var i=0;i<Brooklyn[13];i++){
+					Brooklyn_1=Brooklyn_1+"<img src='img/Small Mammals-RVS;Domestic.png'/>"
+				}
+				for(var i=0;i<Queens[13];i++){
+					Queens_1=Queens_1+"<img src='img/Small Mammals-RVS;Domestic.png'/>"
+				}
+				for(var i=0;i<Bronx[13];i++){
+					Bronx_1=Bronx_1+"<img src='img/Small Mammals-RVS;Domestic.png'/>"
+				}
+				for(var i=0;i<Staten[13];i++){
+					Staten_1=Staten_1+"<img src='img/Small Mammals-RVS;Domestic.png'/>"
+				}
+				
+				for(var i=0;i<Manhattan[14];i++){
+					Manhattan_1=Manhattan_1+"<img src='img/Small Mammals-RVS.png'/>"
+				}
+				for(var i=0;i<Brooklyn[14];i++){
+					Brooklyn_1=Brooklyn_1+"<img src='img/Small Mammals-RVS.png'/>"
+				}
+				for(var i=0;i<Queens[14];i++){
+					Queens_1=Queens_1+"<img src='img/Small Mammals-RVS.png'/>"
+				}
+				for(var i=0;i<Bronx[14];i++){
+					Bronx_1=Bronx_1+"<img src='img/Small Mammals-RVS.png'/>"
+				}
+				for(var i=0;i<Staten[14];i++){
+					Staten_1=Staten_1+"<img src='img/Small Mammals-RVS.png'/>"
+				}
+				
+				for(var i=0;i<Manhattan[15];i++){
+					Manhattan_1=Manhattan_1+"<img src='img/Terrestrial Reptile or Amphibian.png'/>"
+				}
+				for(var i=0;i<Brooklyn[15];i++){
+					Brooklyn_1=Brooklyn_1+"<img src='img/Terrestrial Reptile or Amphibian.png'/>"
+				}
+				for(var i=0;i<Queens[15];i++){
+					Queens_1=Queens_1+"<img src='img/Terrestrial Reptile or Amphibian.png'/>"
+				}
+				for(var i=0;i<Bronx[15];i++){
+					Bronx_1=Bronx_1+"<img src='img/Terrestrial Reptile or Amphibian.png'/>"
+				}
+				for(var i=0;i<Staten[15];i++){
+					Staten_1=Staten_1+"<img src='img/Terrestrial Reptile or Amphibian.png'/>"
+				}
+				document.getElementById("one").innerHTML=Manhattan_1
+				document.getElementById("two").innerHTML=Brooklyn_1
+				document.getElementById("three").innerHTML=Queens_1
+				document.getElementById("four").innerHTML=Bronx_1
+				document.getElementById("five").innerHTML=Staten_1
+			}
+		</script>
+	</body>
+</html>
