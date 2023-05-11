@@ -1,0 +1,5004 @@
+[
+{
+"date_and_time_of_ranger": "2021-06-24T08:00:00.000",
+"borough":"Brooklyn",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-06-24T11:00:00.000",
+"borough":"Bronx",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-06-23T14:30:00.000",
+"borough":"Bronx",
+"animal_class":"Deer"
+},
+{
+"date_and_time_of_ranger": "2021-06-23T13:10:00.000",
+"borough":"Staten Island",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2021-06-23T09:20:00.000",
+"borough":"Queens",
+"animal_class":"Small Mammals-non RVS"
+},
+{
+"date_and_time_of_ranger": "2021-06-23T09:10:00.000",
+"borough":"Staten Island",
+"animal_class":"Domestic;#Birds"
+},
+{
+"date_and_time_of_ranger": "2021-06-23T08:20:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-06-22T15:00:00.000",
+"borough":"Queens",
+"animal_class":"Domestic"
+},
+{
+"date_and_time_of_ranger": "2021-06-22T15:30:00.000",
+"borough":"Brooklyn",
+"animal_class":"Domestic"
+},
+{
+"date_and_time_of_ranger": "2021-06-22T11:30:00.000",
+"borough":"Manhattan",
+"animal_class":"Domestic"
+},
+{
+"date_and_time_of_ranger": "2021-06-22T11:55:00.000",
+"borough":"Queens",
+"animal_class":"Terrestrial Reptile or Amphibian"
+},
+{
+"date_and_time_of_ranger": "2021-06-22T12:00:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-non RVS"
+},
+{
+"date_and_time_of_ranger": "2021-06-22T12:00:00.000",
+"borough":"Brooklyn",
+"animal_class":"Domestic"
+},
+{
+"date_and_time_of_ranger": "2021-06-21T14:02:00.000",
+"borough":"Queens",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-06-21T14:50:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-06-21T15:50:00.000",
+"borough":"Bronx",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-06-21T12:00:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2021-06-21T09:05:00.000",
+"borough":"Bronx",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-06-16T13:00:00.000",
+"borough":"Brooklyn",
+"animal_class":"Domestic;#Birds"
+},
+{
+"date_and_time_of_ranger": "2021-06-20T15:00:00.000",
+"borough":"Manhattan",
+"animal_class":"Terrestrial Reptile or Amphibian"
+},
+{
+"date_and_time_of_ranger": "2021-06-19T10:00:00.000",
+"borough":"Manhattan",
+"animal_class":"Terrestrial Reptile or Amphibian"
+},
+{
+"date_and_time_of_ranger": "2021-06-20T14:45:00.000",
+"borough":"Queens",
+"animal_class":"Domestic;#Birds"
+},
+{
+"date_and_time_of_ranger": "2021-06-19T15:00:00.000",
+"borough":"Queens",
+"animal_class":"Domestic"
+},
+{
+"date_and_time_of_ranger": "2021-06-19T09:15:00.000",
+"borough":"Bronx",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2021-06-18T16:05:00.000",
+"borough":"Bronx",
+"animal_class":"Terrestrial Reptile or Amphibian"
+},
+{
+"date_and_time_of_ranger": "2021-06-17T15:40:00.000",
+"borough":"Queens",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-06-17T10:00:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2021-06-17T10:00:00.000",
+"borough":"Manhattan",
+"animal_class":"Raptors"
+},
+{
+"date_and_time_of_ranger": "2021-06-16T17:20:00.000",
+"borough":"Bronx",
+"animal_class":"Raptors"
+},
+{
+"date_and_time_of_ranger": "2021-06-16T10:45:00.000",
+"borough":"Brooklyn",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2021-06-16T12:30:00.000",
+"borough":"Brooklyn",
+"animal_class":"Domestic"
+},
+{
+"date_and_time_of_ranger": "2021-06-16T10:32:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2021-06-15T16:15:00.000",
+"borough":"Queens",
+"animal_class":"Domestic"
+},
+{
+"date_and_time_of_ranger": "2021-06-15T15:00:00.000",
+"borough":"Manhattan",
+"animal_class":"Terrestrial Reptile or Amphibian"
+},
+{
+"date_and_time_of_ranger": "2021-06-15T10:45:00.000",
+"borough":"Brooklyn",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-06-14T15:45:00.000",
+"borough":"Manhattan",
+"animal_class":"Domestic;#Birds"
+},
+{
+"date_and_time_of_ranger": "2021-06-14T11:15:00.000",
+"borough":"Brooklyn",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-06-14T12:30:00.000",
+"borough":"Brooklyn",
+"animal_class":"Raptors"
+},
+{
+"date_and_time_of_ranger": "2021-06-13T14:12:00.000",
+"borough":"Queens",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-06-13T14:05:00.000",
+"borough":"Staten Island",
+"animal_class":"Fish-numerous quantity"
+},
+{
+"date_and_time_of_ranger": "2021-06-13T11:39:00.000",
+"borough":"Queens",
+"animal_class":"Terrestrial Reptile or Amphibian"
+},
+{
+"date_and_time_of_ranger": "2021-06-13T13:40:00.000",
+"borough":"Queens",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2021-06-13T10:00:00.000",
+"borough":"Manhattan",
+"animal_class":"Terrestrial Reptile or Amphibian"
+},
+{
+"date_and_time_of_ranger": "2021-06-12T13:10:00.000",
+"borough":"Queens",
+"animal_class":"Raptors"
+},
+{
+"date_and_time_of_ranger": "2021-06-12T16:07:00.000",
+"borough":"Manhattan",
+"animal_class":"Domestic;#Birds"
+},
+{
+"date_and_time_of_ranger": "2021-06-12T15:00:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-06-12T13:55:00.000",
+"borough":"Bronx",
+"animal_class":"Domestic"
+},
+{
+"date_and_time_of_ranger": "2021-06-12T12:30:00.000",
+"borough":"Bronx",
+"animal_class":"Terrestrial Reptile or Amphibian"
+},
+{
+"date_and_time_of_ranger": "2021-06-11T13:30:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-06-11T16:15:00.000",
+"borough":"Bronx",
+"animal_class":"Domestic;#Birds"
+},
+{
+"date_and_time_of_ranger": "2021-06-11T15:30:00.000",
+"borough":"Bronx",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2021-06-10T15:22:00.000",
+"borough":"Manhattan",
+"animal_class":"Terrestrial Reptile or Amphibian"
+},
+{
+"date_and_time_of_ranger": "2021-06-10T12:21:00.000",
+"borough":"Manhattan",
+"animal_class":"Terrestrial Reptile or Amphibian"
+},
+{
+"date_and_time_of_ranger": "2021-06-10T17:30:00.000",
+"borough":"Brooklyn",
+"animal_class":"Raptors"
+},
+{
+"date_and_time_of_ranger": "2021-06-10T17:54:00.000",
+"borough":"Queens",
+"animal_class":"Raptors"
+},
+{
+"date_and_time_of_ranger": "2021-06-10T16:45:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-06-09T14:00:00.000",
+"borough":"Queens",
+"animal_class":"Domestic;#Birds"
+},
+{
+"date_and_time_of_ranger": "2021-06-09T12:30:00.000",
+"borough":"Queens",
+"animal_class":"Raptors"
+},
+{
+"date_and_time_of_ranger": "2021-06-09T14:30:00.000",
+"borough":"Brooklyn",
+"animal_class":"Small Mammals-non RVS"
+},
+{
+"date_and_time_of_ranger": "2021-06-08T12:00:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-06-07T14:45:00.000",
+"borough":"Brooklyn",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-06-07T11:00:00.000",
+"borough":"Brooklyn",
+"animal_class":"Raptors"
+},
+{
+"date_and_time_of_ranger": "2021-06-07T09:30:00.000",
+"borough":"Brooklyn",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-06-07T10:45:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-06-07T10:00:00.000",
+"borough":"Staten Island",
+"animal_class":"Terrestrial Reptile or Amphibian"
+},
+{
+"date_and_time_of_ranger": "2021-06-06T11:00:00.000",
+"borough":"Bronx",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-06-06T13:10:00.000",
+"borough":"Queens",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-01-04T13:40:00.000",
+"borough":"Bronx",
+"animal_class":"Domestic"
+},
+{
+"date_and_time_of_ranger": "2021-06-05T13:30:00.000",
+"borough":"Queens",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-06-05T15:30:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2021-06-05T09:40:00.000",
+"borough":"Bronx",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2021-06-05T11:05:00.000",
+"borough":"Queens",
+"animal_class":"Terrestrial Reptile or Amphibian"
+},
+{
+"date_and_time_of_ranger": "2021-06-05T09:30:00.000",
+"borough":"Manhattan",
+"animal_class":"Terrestrial Reptile or Amphibian"
+},
+{
+"date_and_time_of_ranger": "2021-06-04T12:00:00.000",
+"borough":"Staten Island",
+"animal_class":"Raptors"
+},
+{
+"date_and_time_of_ranger": "2021-06-04T12:00:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2021-06-03T16:15:00.000",
+"borough":"Brooklyn",
+"animal_class":"Terrestrial Reptile or Amphibian"
+},
+{
+"date_and_time_of_ranger": "2021-06-03T17:31:00.000",
+"borough":"Queens",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-06-02T10:00:00.000",
+"borough":"Bronx",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-06-02T13:00:00.000",
+"borough":"Bronx",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-06-03T13:15:00.000",
+"borough":"Queens",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-06-03T11:00:00.000",
+"borough":"Queens",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2021-06-03T10:00:00.000",
+"borough":"Brooklyn",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-06-03T08:35:00.000",
+"borough":"Queens",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2021-06-01T09:30:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-06-02T11:00:00.000",
+"borough":"Staten Island",
+"animal_class":"Terrestrial Reptile or Amphibian"
+},
+{
+"date_and_time_of_ranger": "2021-06-02T11:30:00.000",
+"borough":"Queens",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-06-02T10:45:00.000",
+"borough":"Staten Island",
+"animal_class":"Terrestrial Reptile or Amphibian"
+},
+{
+"date_and_time_of_ranger": "2021-06-02T07:55:00.000",
+"borough":"Queens",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-06-01T17:07:00.000",
+"borough":"Queens",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2021-06-01T01:16:00.000",
+"borough":"Bronx",
+"animal_class":"Domestic"
+},
+{
+"date_and_time_of_ranger": "2021-06-01T15:00:00.000",
+"borough":"Manhattan",
+"animal_class":"Terrestrial Reptile or Amphibian"
+},
+{
+"date_and_time_of_ranger": "2021-06-01T15:30:00.000",
+"borough":"Brooklyn",
+"animal_class":"Terrestrial Reptile or Amphibian"
+},
+{
+"date_and_time_of_ranger": "2021-06-01T10:30:00.000",
+"borough":"Manhattan",
+"animal_class":"Raptors"
+},
+{
+"date_and_time_of_ranger": "2021-05-31T09:34:00.000",
+"borough":"Bronx",
+"animal_class":"Domestic;#Birds"
+},
+{
+"date_and_time_of_ranger": "2021-05-31T12:30:00.000",
+"borough":"Bronx",
+"animal_class":"Domestic"
+},
+{
+"date_and_time_of_ranger": "2021-05-29T15:30:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-05-29T15:30:00.000",
+"borough":"Manhattan",
+"animal_class":"Domestic"
+},
+{
+"date_and_time_of_ranger": "2021-05-28T11:08:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-05-28T09:30:00.000",
+"borough":"Brooklyn",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-05-28T14:00:00.000",
+"borough":"Manhattan",
+"animal_class":"Domestic"
+},
+{
+"date_and_time_of_ranger": "2021-05-28T17:00:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-05-28T13:30:00.000",
+"borough":"Manhattan",
+"animal_class":"Raptors"
+},
+{
+"date_and_time_of_ranger": "2021-05-28T12:00:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-05-28T11:00:00.000",
+"borough":"Brooklyn",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-05-26T16:30:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-05-27T08:30:00.000",
+"borough":"Manhattan",
+"animal_class":"Domestic"
+},
+{
+"date_and_time_of_ranger": "2021-05-27T08:30:00.000",
+"borough":"Bronx",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2021-05-27T08:30:00.000",
+"borough":"Staten Island",
+"animal_class":"Terrestrial Reptile or Amphibian"
+},
+{
+"date_and_time_of_ranger": "2021-05-26T16:45:00.000",
+"borough":"Brooklyn",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-05-26T13:00:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-05-26T13:30:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-05-26T12:00:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-non RVS"
+},
+{
+"date_and_time_of_ranger": "2021-05-26T12:03:00.000",
+"borough":"Bronx",
+"animal_class":"Marine Reptiles"
+},
+{
+"date_and_time_of_ranger": "2021-05-26T09:22:00.000",
+"borough":"Bronx",
+"animal_class":"Terrestrial Reptile or Amphibian"
+},
+{
+"date_and_time_of_ranger": "2021-05-25T17:00:00.000",
+"borough":"Brooklyn",
+"animal_class":"Small Mammals-non RVS"
+},
+{
+"date_and_time_of_ranger": "2021-05-25T10:30:00.000",
+"borough":"Brooklyn",
+"animal_class":"Terrestrial Reptile or Amphibian"
+},
+{
+"date_and_time_of_ranger": "2021-05-25T11:45:00.000",
+"borough":"Manhattan",
+"animal_class":"Terrestrial Reptile or Amphibian"
+},
+{
+"date_and_time_of_ranger": "2021-05-25T10:58:00.000",
+"borough":"Bronx",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-05-25T11:15:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-05-24T12:05:00.000",
+"borough":"Bronx",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-05-24T16:00:00.000",
+"borough":"Brooklyn",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-05-24T10:00:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2021-05-24T14:40:00.000",
+"borough":"Staten Island",
+"animal_class":"Terrestrial Reptile or Amphibian"
+},
+{
+"date_and_time_of_ranger": "2021-05-24T11:00:00.000",
+"borough":"Manhattan",
+"animal_class":"Terrestrial Reptile or Amphibian"
+},
+{
+"date_and_time_of_ranger": "2021-05-24T10:32:00.000",
+"borough":"Staten Island",
+"animal_class":"Deer"
+},
+{
+"date_and_time_of_ranger": "2021-05-24T09:15:00.000",
+"borough":"Brooklyn",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-05-23T09:35:00.000",
+"borough":"Bronx",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2021-05-23T11:37:00.000",
+"borough":"Queens",
+"animal_class":"Terrestrial Reptile or Amphibian"
+},
+{
+"date_and_time_of_ranger": "2021-05-23T11:00:00.000",
+"borough":"Brooklyn",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-05-23T11:30:00.000",
+"borough":"Brooklyn",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-05-22T12:50:00.000",
+"borough":"Staten Island",
+"animal_class":"Domestic"
+},
+{
+"date_and_time_of_ranger": "2021-05-21T18:03:00.000",
+"borough":"Manhattan",
+"animal_class":"Raptors"
+},
+{
+"date_and_time_of_ranger": "2021-05-21T12:00:00.000",
+"borough":"Manhattan",
+"animal_class":"Raptors"
+},
+{
+"date_and_time_of_ranger": "2021-05-22T06:45:00.000",
+"borough":"Manhattan",
+"animal_class":"Raptors"
+},
+{
+"date_and_time_of_ranger": "2021-05-21T10:35:00.000",
+"borough":"Queens",
+"animal_class":"Raptors"
+},
+{
+"date_and_time_of_ranger": "2021-05-21T13:30:00.000",
+"borough":"Manhattan",
+"animal_class":"Terrestrial Reptile or Amphibian"
+},
+{
+"date_and_time_of_ranger": "2021-05-21T14:30:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-05-21T14:20:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-05-21T13:55:00.000",
+"borough":"Queens",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2021-05-21T09:00:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-05-21T08:45:00.000",
+"borough":"Queens",
+"animal_class":"Domestic"
+},
+{
+"date_and_time_of_ranger": "2021-05-20T12:30:00.000",
+"borough":"Queens",
+"animal_class":"Terrestrial Reptile or Amphibian"
+},
+{
+"date_and_time_of_ranger": "2021-05-19T14:50:00.000",
+"borough":"Staten Island",
+"animal_class":"Terrestrial Reptile or Amphibian"
+},
+{
+"date_and_time_of_ranger": "2021-05-20T12:30:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-05-19T09:30:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-05-19T10:30:00.000",
+"borough":"Queens",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-05-19T16:30:00.000",
+"borough":"Bronx",
+"animal_class":"Deer"
+},
+{
+"date_and_time_of_ranger": "2021-05-19T11:33:00.000",
+"borough":"Queens",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-05-19T10:25:00.000",
+"borough":"Bronx",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2021-05-18T13:00:00.000",
+"borough":"Bronx",
+"animal_class":"Terrestrial Reptile or Amphibian"
+},
+{
+"date_and_time_of_ranger": "2021-05-18T14:00:00.000",
+"borough":"Brooklyn",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2021-05-16T14:45:00.000",
+"borough":"Staten Island",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2021-05-17T12:50:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-non RVS"
+},
+{
+"date_and_time_of_ranger": "2021-05-15T17:00:00.000",
+"borough":"Bronx",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-05-15T11:40:00.000",
+"borough":"Bronx",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2021-05-14T08:45:00.000",
+"borough":"Queens",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-05-14T09:55:00.000",
+"borough":"Staten Island",
+"animal_class":"Domestic;#Birds"
+},
+{
+"date_and_time_of_ranger": "2021-05-13T16:40:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-non RVS"
+},
+{
+"date_and_time_of_ranger": "2021-05-13T13:00:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-05-13T12:30:00.000",
+"borough":"Brooklyn",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-05-13T10:30:00.000",
+"borough":"Brooklyn",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-05-13T11:16:00.000",
+"borough":"Queens",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-05-13T09:00:00.000",
+"borough":"Queens",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-05-12T16:34:00.000",
+"borough":"Queens",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-05-11T09:30:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-05-12T09:00:00.000",
+"borough":"Queens",
+"animal_class":"Domestic"
+},
+{
+"date_and_time_of_ranger": "2021-05-11T17:51:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-05-11T14:16:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-05-11T12:00:00.000",
+"borough":"Brooklyn",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2020-08-12T12:30:00.000",
+"borough":"Queens",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-05-11T14:00:00.000",
+"borough":"Bronx",
+"animal_class":"Small Mammals-non RVS"
+},
+{
+"date_and_time_of_ranger": "2021-05-11T11:25:00.000",
+"borough":"Bronx",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-05-11T11:10:00.000",
+"borough":"Queens",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-05-10T10:15:00.000",
+"borough":"Brooklyn",
+"animal_class":"Domestic;#Birds"
+},
+{
+"date_and_time_of_ranger": "2021-05-10T14:00:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-non RVS"
+},
+{
+"date_and_time_of_ranger": "2021-05-10T10:15:00.000",
+"borough":"Bronx",
+"animal_class":"Domestic"
+},
+{
+"date_and_time_of_ranger": "2021-05-10T13:15:00.000",
+"borough":"Queens",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-05-09T14:00:00.000",
+"borough":"Brooklyn",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-05-08T15:15:00.000",
+"borough":"Queens",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-05-08T11:10:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-05-08T12:30:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-05-08T09:03:00.000",
+"borough":"Queens",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2021-05-06T12:45:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-05-07T14:00:00.000",
+"borough":"Brooklyn",
+"animal_class":"Terrestrial Reptile or Amphibian"
+},
+{
+"date_and_time_of_ranger": "2021-05-07T10:30:00.000",
+"borough":"Queens",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2021-05-07T02:30:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-05-06T01:40:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-05-07T11:25:00.000",
+"borough":"Staten Island",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2021-05-07T13:30:00.000",
+"borough":"Bronx",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-05-06T17:30:00.000",
+"borough":"Brooklyn",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-05-06T13:45:00.000",
+"borough":"Queens",
+"animal_class":"Domestic;#Birds"
+},
+{
+"date_and_time_of_ranger": "2021-05-06T09:20:00.000",
+"borough":"Staten Island",
+"animal_class":"Domestic;#Birds"
+},
+{
+"date_and_time_of_ranger": "2021-05-05T10:58:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2021-05-05T08:00:00.000",
+"borough":"Manhattan",
+"animal_class":"Terrestrial Reptile or Amphibian"
+},
+{
+"date_and_time_of_ranger": "2021-05-04T13:28:00.000",
+"borough":"Queens",
+"animal_class":"Domestic;#Birds"
+},
+{
+"date_and_time_of_ranger": "2021-05-04T08:44:00.000",
+"borough":"Queens",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-05-03T17:00:00.000",
+"borough":"Queens",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-05-03T15:30:00.000",
+"borough":"Staten Island",
+"animal_class":"Domestic"
+},
+{
+"date_and_time_of_ranger": "2021-05-03T12:15:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2021-05-03T10:00:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-05-03T09:40:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-05-03T14:00:00.000",
+"borough":"Bronx",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-05-02T10:45:00.000",
+"borough":"Queens",
+"animal_class":"Small Mammals-non RVS"
+},
+{
+"date_and_time_of_ranger": "2021-05-01T16:50:00.000",
+"borough":"Queens",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-05-01T15:26:00.000",
+"borough":"Bronx",
+"animal_class":"Domestic;#Birds"
+},
+{
+"date_and_time_of_ranger": "2021-04-30T16:08:00.000",
+"borough":"Bronx",
+"animal_class":"Small Mammals-RVS;#Domestic"
+},
+{
+"date_and_time_of_ranger": "2021-04-30T12:15:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2021-04-30T12:00:00.000",
+"borough":"Queens",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-04-29T11:00:00.000",
+"borough":"Manhattan",
+"animal_class":"Raptors"
+},
+{
+"date_and_time_of_ranger": "2021-04-29T09:35:00.000",
+"borough":"Bronx",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2021-04-28T13:45:00.000",
+"borough":"Staten Island",
+"animal_class":"Small Mammals-non RVS"
+},
+{
+"date_and_time_of_ranger": "2021-04-28T11:30:00.000",
+"borough":"Manhattan",
+"animal_class":"Raptors"
+},
+{
+"date_and_time_of_ranger": "2021-04-27T16:00:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-04-28T10:45:00.000",
+"borough":"Bronx",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2021-04-28T11:35:00.000",
+"borough":"Queens",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-04-26T15:30:00.000",
+"borough":"Queens",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2021-04-28T18:30:00.000",
+"borough":"Staten Island",
+"animal_class":"Terrestrial Reptile or Amphibian"
+},
+{
+"date_and_time_of_ranger": "2021-04-28T09:00:00.000",
+"borough":"Queens",
+"animal_class":"Domestic"
+},
+{
+"date_and_time_of_ranger": "2021-04-28T08:30:00.000",
+"borough":"Queens",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2021-04-27T17:00:00.000",
+"borough":"Queens",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2021-04-27T14:10:00.000",
+"borough":"Bronx",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2021-04-27T10:00:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-non RVS"
+},
+{
+"date_and_time_of_ranger": "2021-04-27T10:00:00.000",
+"borough":"Manhattan",
+"animal_class":"Raptors"
+},
+{
+"date_and_time_of_ranger": "2021-04-27T09:15:00.000",
+"borough":"Queens",
+"animal_class":"Small Mammals-non RVS"
+},
+{
+"date_and_time_of_ranger": "2021-04-26T15:20:00.000",
+"borough":"Queens",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2021-04-26T08:50:00.000",
+"borough":"Manhattan",
+"animal_class":"Raptors"
+},
+{
+"date_and_time_of_ranger": "2021-04-25T14:40:00.000",
+"borough":"Queens",
+"animal_class":"Domestic"
+},
+{
+"date_and_time_of_ranger": "2021-04-24T12:30:00.000",
+"borough":"Queens",
+"animal_class":"Small Mammals-non RVS"
+},
+{
+"date_and_time_of_ranger": "2021-04-24T16:00:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-04-23T15:45:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2021-04-23T14:30:00.000",
+"borough":"Manhattan",
+"animal_class":"Coyotes"
+},
+{
+"date_and_time_of_ranger": "2021-04-22T10:05:00.000",
+"borough":"Bronx",
+"animal_class":"Raptors"
+},
+{
+"date_and_time_of_ranger": "2021-04-23T14:30:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2021-04-22T18:00:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-04-23T08:24:00.000",
+"borough":"Queens",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2021-04-22T05:03:00.000",
+"borough":"Queens",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-04-22T12:00:00.000",
+"borough":"Queens",
+"animal_class":"Fish-numerous quantity"
+},
+{
+"date_and_time_of_ranger": "2021-04-22T08:30:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2021-04-21T17:40:00.000",
+"borough":"Queens",
+"animal_class":"Small Mammals-non RVS"
+},
+{
+"date_and_time_of_ranger": "2021-04-21T15:00:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-04-21T11:00:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2021-04-20T08:00:00.000",
+"borough":"Brooklyn",
+"animal_class":"Domestic;#Birds"
+},
+{
+"date_and_time_of_ranger": "2021-04-19T17:05:00.000",
+"borough":"Queens",
+"animal_class":"Domestic;#Birds"
+},
+{
+"date_and_time_of_ranger": "2021-04-19T17:45:00.000",
+"borough":"Brooklyn",
+"animal_class":"Domestic;#Birds"
+},
+{
+"date_and_time_of_ranger": "2021-04-19T11:30:00.000",
+"borough":"Manhattan",
+"animal_class":"Raptors"
+},
+{
+"date_and_time_of_ranger": "2021-04-19T15:30:00.000",
+"borough":"Brooklyn",
+"animal_class":"Small Mammals-non RVS"
+},
+{
+"date_and_time_of_ranger": "2021-04-19T12:48:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-04-19T09:45:00.000",
+"borough":"Bronx",
+"animal_class":"Small Mammals-non RVS"
+},
+{
+"date_and_time_of_ranger": "2021-04-18T15:50:00.000",
+"borough":"Queens",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2021-04-18T10:45:00.000",
+"borough":"Queens",
+"animal_class":"Small Mammals-non RVS"
+},
+{
+"date_and_time_of_ranger": "2021-04-18T09:30:00.000",
+"borough":"Brooklyn",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-04-17T15:30:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2021-04-16T10:28:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-RVS;#Domestic"
+},
+{
+"date_and_time_of_ranger": "2021-04-16T08:40:00.000",
+"borough":"Manhattan",
+"animal_class":"Domestic"
+},
+{
+"date_and_time_of_ranger": "2021-04-15T11:00:00.000",
+"borough":"Brooklyn",
+"animal_class":"Small Mammals-RVS;#Domestic"
+},
+{
+"date_and_time_of_ranger": "2021-04-15T09:30:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-04-15T08:30:00.000",
+"borough":"Queens",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-04-14T16:30:00.000",
+"borough":"Brooklyn",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2021-04-14T10:40:00.000",
+"borough":"Manhattan",
+"animal_class":"Domestic"
+},
+{
+"date_and_time_of_ranger": "2021-04-14T11:45:00.000",
+"borough":"Staten Island",
+"animal_class":"Marine Mammals-whales, Dolphin"
+},
+{
+"date_and_time_of_ranger": "2021-04-14T10:00:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-non RVS"
+},
+{
+"date_and_time_of_ranger": "2021-04-13T16:30:00.000",
+"borough":"Manhattan",
+"animal_class":"Raptors"
+},
+{
+"date_and_time_of_ranger": "2021-04-13T09:45:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-04-13T10:23:00.000",
+"borough":"Queens",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2021-04-13T11:00:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-04-12T15:00:00.000",
+"borough":"Brooklyn",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-04-12T13:00:00.000",
+"borough":"Manhattan",
+"animal_class":"Domestic;#Birds"
+},
+{
+"date_and_time_of_ranger": "2021-04-12T15:15:00.000",
+"borough":"Queens",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-04-12T02:51:00.000",
+"borough":"Queens",
+"animal_class":"Small Mammals-non RVS"
+},
+{
+"date_and_time_of_ranger": "2021-04-12T11:54:00.000",
+"borough":"Queens",
+"animal_class":"Small Mammals-non RVS"
+},
+{
+"date_and_time_of_ranger": "2021-04-12T11:00:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-04-11T15:00:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-04-11T12:45:00.000",
+"borough":"Staten Island",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2021-04-11T11:28:00.000",
+"borough":"Queens",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2021-04-10T14:00:00.000",
+"borough":"Queens",
+"animal_class":"Small Mammals-non RVS"
+},
+{
+"date_and_time_of_ranger": "2021-04-09T11:00:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-04-09T09:40:00.000",
+"borough":"Bronx",
+"animal_class":"Domestic"
+},
+{
+"date_and_time_of_ranger": "2021-04-09T14:50:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-04-09T09:45:00.000",
+"borough":"Queens",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2021-04-09T10:45:00.000",
+"borough":"Queens",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-04-08T15:20:00.000",
+"borough":"Staten Island",
+"animal_class":"Terrestrial Reptile or Amphibian"
+},
+{
+"date_and_time_of_ranger": "2021-04-08T17:30:00.000",
+"borough":"Bronx",
+"animal_class":"Small Mammals-non RVS"
+},
+{
+"date_and_time_of_ranger": "2021-04-08T13:30:00.000",
+"borough":"Bronx",
+"animal_class":"Small Mammals-non RVS"
+},
+{
+"date_and_time_of_ranger": "2021-04-08T14:00:00.000",
+"borough":"Staten Island",
+"animal_class":"Terrestrial Reptile or Amphibian"
+},
+{
+"date_and_time_of_ranger": "2021-04-07T15:40:00.000",
+"borough":"Bronx",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2021-04-07T09:40:00.000",
+"borough":"Queens",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2021-04-06T13:00:00.000",
+"borough":"Queens",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2021-04-07T09:30:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-04-06T14:00:00.000",
+"borough":"Bronx",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-04-06T15:30:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2021-04-06T11:30:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-non RVS"
+},
+{
+"date_and_time_of_ranger": "2021-04-06T11:00:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-04-06T08:25:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-04-04T16:30:00.000",
+"borough":"Brooklyn",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2021-04-04T13:30:00.000",
+"borough":"Bronx",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2021-04-04T11:00:00.000",
+"borough":"Bronx",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-04-04T14:00:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-04-03T17:15:00.000",
+"borough":"Queens",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-04-03T12:15:00.000",
+"borough":"Queens",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-04-03T14:00:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-04-02T15:45:00.000",
+"borough":"Queens",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2021-04-02T13:50:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-04-01T17:00:00.000",
+"borough":"Brooklyn",
+"animal_class":"Small Mammals-non RVS"
+},
+{
+"date_and_time_of_ranger": "2021-03-31T12:00:00.000",
+"borough":"Brooklyn",
+"animal_class":"Small Mammals-non RVS"
+},
+{
+"date_and_time_of_ranger": "2021-03-31T17:00:00.000",
+"borough":"Brooklyn",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-03-31T10:00:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-03-31T10:00:00.000",
+"borough":"Bronx",
+"animal_class":"Domestic"
+},
+{
+"date_and_time_of_ranger": "2021-03-30T16:00:00.000",
+"borough":"Brooklyn",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-03-30T14:00:00.000",
+"borough":"Brooklyn",
+"animal_class":"Raptors"
+},
+{
+"date_and_time_of_ranger": "2021-03-30T10:00:00.000",
+"borough":"Manhattan",
+"animal_class":"Domestic"
+},
+{
+"date_and_time_of_ranger": "2021-03-29T11:00:00.000",
+"borough":"Brooklyn",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-03-29T12:19:00.000",
+"borough":"Queens",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2021-03-29T10:27:00.000",
+"borough":"Queens",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-03-28T14:00:00.000",
+"borough":"Manhattan",
+"animal_class":"Domestic;#Birds"
+},
+{
+"date_and_time_of_ranger": "2021-03-27T16:52:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-non RVS"
+},
+{
+"date_and_time_of_ranger": "2021-03-27T17:31:00.000",
+"borough":"Queens",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2021-03-26T14:00:00.000",
+"borough":"Brooklyn",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-03-25T16:30:00.000",
+"borough":"Manhattan",
+"animal_class":"Raptors"
+},
+{
+"date_and_time_of_ranger": "2021-03-25T15:30:00.000",
+"borough":"Brooklyn",
+"animal_class":"Domestic"
+},
+{
+"date_and_time_of_ranger": "2021-03-25T11:35:00.000",
+"borough":"Staten Island",
+"animal_class":"Small Mammals-non RVS"
+},
+{
+"date_and_time_of_ranger": "2021-03-25T10:32:00.000",
+"borough":"Queens",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2021-03-25T09:30:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2021-03-24T09:00:00.000",
+"borough":"Brooklyn",
+"animal_class":"Domestic;#Birds"
+},
+{
+"date_and_time_of_ranger": "2021-03-23T11:50:00.000",
+"borough":"Queens",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-03-19T10:15:00.000",
+"borough":"Bronx",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-03-19T10:40:00.000",
+"borough":"Bronx",
+"animal_class":"Deer"
+},
+{
+"date_and_time_of_ranger": "2021-03-18T11:45:00.000",
+"borough":"Bronx",
+"animal_class":"Deer"
+},
+{
+"date_and_time_of_ranger": "2021-03-17T17:30:00.000",
+"borough":"Queens",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-03-16T09:15:00.000",
+"borough":"Queens",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2021-03-15T11:45:00.000",
+"borough":"Brooklyn",
+"animal_class":"Domestic;#Birds"
+},
+{
+"date_and_time_of_ranger": "2021-03-12T15:30:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-03-12T23:30:00.000",
+"borough":"Brooklyn",
+"animal_class":"Small Mammals-non RVS"
+},
+{
+"date_and_time_of_ranger": "2021-03-12T10:00:00.000",
+"borough":"Staten Island",
+"animal_class":"Terrestrial Reptile or Amphibian"
+},
+{
+"date_and_time_of_ranger": "2021-03-11T10:00:00.000",
+"borough":"Staten Island",
+"animal_class":"Deer"
+},
+{
+"date_and_time_of_ranger": "2021-03-11T11:06:00.000",
+"borough":"Queens",
+"animal_class":"Terrestrial Reptile or Amphibian"
+},
+{
+"date_and_time_of_ranger": "2021-03-11T09:25:00.000",
+"borough":"Queens",
+"animal_class":"Domestic"
+},
+{
+"date_and_time_of_ranger": "2021-03-10T08:45:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-RVS;#Domestic"
+},
+{
+"date_and_time_of_ranger": "2020-02-06T10:30:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-03-09T12:00:00.000",
+"borough":"Brooklyn",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-03-09T09:16:00.000",
+"borough":"Staten Island",
+"animal_class":"Deer"
+},
+{
+"date_and_time_of_ranger": "2021-03-09T09:05:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-03-07T12:40:00.000",
+"borough":"Staten Island",
+"animal_class":"Deer"
+},
+{
+"date_and_time_of_ranger": "2021-03-07T08:09:00.000",
+"borough":"Queens",
+"animal_class":"Domestic;#Birds"
+},
+{
+"date_and_time_of_ranger": "2021-03-06T15:10:00.000",
+"borough":"Staten Island",
+"animal_class":"Raptors"
+},
+{
+"date_and_time_of_ranger": "2021-03-04T17:30:00.000",
+"borough":"Bronx",
+"animal_class":"Raptors"
+},
+{
+"date_and_time_of_ranger": "2021-03-04T16:45:00.000",
+"borough":"Bronx",
+"animal_class":"Deer"
+},
+{
+"date_and_time_of_ranger": "2021-03-04T10:00:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-03-03T15:30:00.000",
+"borough":"Brooklyn",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2021-03-03T12:30:00.000",
+"borough":"Queens",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-03-03T13:45:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2021-03-03T11:30:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-03-03T09:30:00.000",
+"borough":"Staten Island",
+"animal_class":"Deer"
+},
+{
+"date_and_time_of_ranger": "2021-03-03T16:45:00.000",
+"borough":"Queens",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2021-03-02T11:00:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-non RVS"
+},
+{
+"date_and_time_of_ranger": "2021-03-02T11:30:00.000",
+"borough":"Brooklyn",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-03-01T14:40:00.000",
+"borough":"Bronx",
+"animal_class":"Raptors"
+},
+{
+"date_and_time_of_ranger": "2021-02-28T10:40:00.000",
+"borough":"Staten Island",
+"animal_class":"Domestic;#Birds"
+},
+{
+"date_and_time_of_ranger": "2021-02-27T14:15:00.000",
+"borough":"Brooklyn",
+"animal_class":"Raptors"
+},
+{
+"date_and_time_of_ranger": "2021-02-26T16:00:00.000",
+"borough":"Queens",
+"animal_class":"Domestic"
+},
+{
+"date_and_time_of_ranger": "2021-02-26T15:45:00.000",
+"borough":"Bronx",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-02-26T15:30:00.000",
+"borough":"Queens",
+"animal_class":"Small Mammals-non RVS"
+},
+{
+"date_and_time_of_ranger": "2021-02-26T14:30:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-non RVS"
+},
+{
+"date_and_time_of_ranger": "2021-02-26T16:00:00.000",
+"borough":"Brooklyn",
+"animal_class":"Small Mammals-non RVS"
+},
+{
+"date_and_time_of_ranger": "2021-02-26T12:00:00.000",
+"borough":"Brooklyn",
+"animal_class":"Small Mammals-non RVS"
+},
+{
+"date_and_time_of_ranger": "2021-02-25T11:15:00.000",
+"borough":"Manhattan",
+"animal_class":"Domestic;#Birds"
+},
+{
+"date_and_time_of_ranger": "2021-02-24T13:47:00.000",
+"borough":"Queens",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-02-24T12:45:00.000",
+"borough":"Bronx",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-02-23T13:40:00.000",
+"borough":"Manhattan",
+"animal_class":"Raptors"
+},
+{
+"date_and_time_of_ranger": "2021-02-23T10:17:00.000",
+"borough":"Queens",
+"animal_class":"Domestic"
+},
+{
+"date_and_time_of_ranger": "2021-02-21T13:45:00.000",
+"borough":"Brooklyn",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2021-02-20T16:00:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-02-20T14:00:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-non RVS"
+},
+{
+"date_and_time_of_ranger": "2021-02-19T16:15:00.000",
+"borough":"Brooklyn",
+"animal_class":"Domestic"
+},
+{
+"date_and_time_of_ranger": "2021-02-17T10:00:00.000",
+"borough":"Bronx",
+"animal_class":"Marine Mammals-seals only"
+},
+{
+"date_and_time_of_ranger": "2021-02-17T11:30:00.000",
+"borough":"Queens",
+"animal_class":"Domestic;#Birds"
+},
+{
+"date_and_time_of_ranger": "2021-02-17T07:30:00.000",
+"borough":"Queens",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-02-16T14:47:00.000",
+"borough":"Bronx",
+"animal_class":"Small Mammals-non RVS"
+},
+{
+"date_and_time_of_ranger": "2021-02-16T12:30:00.000",
+"borough":"Manhattan",
+"animal_class":"Raptors"
+},
+{
+"date_and_time_of_ranger": "2021-02-14T15:35:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-02-15T10:10:00.000",
+"borough":"Bronx",
+"animal_class":"Domestic"
+},
+{
+"date_and_time_of_ranger": "2021-02-14T14:45:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-02-13T16:40:00.000",
+"borough":"Manhattan",
+"animal_class":"Domestic;#Birds"
+},
+{
+"date_and_time_of_ranger": "2021-02-12T14:30:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-02-10T15:00:00.000",
+"borough":"Bronx",
+"animal_class":"Raptors"
+},
+{
+"date_and_time_of_ranger": "2021-02-10T11:20:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-02-10T15:30:00.000",
+"borough":"Queens",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2021-02-06T15:45:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-02-05T17:20:00.000",
+"borough":"Queens",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-02-05T14:55:00.000",
+"borough":"Staten Island",
+"animal_class":"Small Mammals-non RVS"
+},
+{
+"date_and_time_of_ranger": "2021-02-05T12:10:00.000",
+"borough":"Manhattan",
+"animal_class":"Raptors"
+},
+{
+"date_and_time_of_ranger": "2021-02-05T10:25:00.000",
+"borough":"Queens",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-02-04T16:00:00.000",
+"borough":"Manhattan",
+"animal_class":"Raptors"
+},
+{
+"date_and_time_of_ranger": "2021-02-02T17:40:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2021-02-04T08:30:00.000",
+"borough":"Bronx",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-01-30T16:15:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-non RVS"
+},
+{
+"date_and_time_of_ranger": "2021-02-02T10:55:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-01-31T14:30:00.000",
+"borough":"Brooklyn",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-01-31T14:50:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-01-26T11:30:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-01-30T10:45:00.000",
+"borough":"Bronx",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2021-01-30T08:15:00.000",
+"borough":"Queens",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-01-30T08:15:00.000",
+"borough":"Queens",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-01-29T16:15:00.000",
+"borough":"Staten Island",
+"animal_class":"Domestic"
+},
+{
+"date_and_time_of_ranger": "2021-01-29T08:50:00.000",
+"borough":"Queens",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-01-28T09:00:00.000",
+"borough":"Queens",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-01-28T09:00:00.000",
+"borough":"Queens",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-01-28T08:50:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-01-27T15:00:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-non RVS"
+},
+{
+"date_and_time_of_ranger": "2021-01-27T13:30:00.000",
+"borough":"Queens",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2021-01-27T09:33:00.000",
+"borough":"Queens",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2021-01-23T18:10:00.000",
+"borough":"Bronx",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-01-25T14:15:00.000",
+"borough":"Staten Island",
+"animal_class":"Domestic;#Birds"
+},
+{
+"date_and_time_of_ranger": "2021-01-25T09:10:00.000",
+"borough":"Staten Island",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2021-01-25T09:45:00.000",
+"borough":"Queens",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-01-24T16:05:00.000",
+"borough":"Bronx",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-01-23T16:35:00.000",
+"borough":"Queens",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-01-23T14:46:00.000",
+"borough":"Manhattan",
+"animal_class":"Raptors"
+},
+{
+"date_and_time_of_ranger": "2021-01-23T10:00:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-non RVS"
+},
+{
+"date_and_time_of_ranger": "2021-01-23T11:45:00.000",
+"borough":"Queens",
+"animal_class":"Small Mammals-non RVS"
+},
+{
+"date_and_time_of_ranger": "2021-01-23T12:50:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-01-22T16:00:00.000",
+"borough":"Brooklyn",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-01-21T11:30:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-01-21T12:00:00.000",
+"borough":"Queens",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-01-20T17:00:00.000",
+"borough":"Brooklyn",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-01-20T14:16:00.000",
+"borough":"Queens",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-01-20T10:20:00.000",
+"borough":"Queens",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2021-01-20T09:45:00.000",
+"borough":"Manhattan",
+"animal_class":"Raptors"
+},
+{
+"date_and_time_of_ranger": "2021-01-20T08:45:00.000",
+"borough":"Queens",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2021-01-19T14:30:00.000",
+"borough":"Bronx",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-01-19T11:00:00.000",
+"borough":"Bronx",
+"animal_class":"Domestic"
+},
+{
+"date_and_time_of_ranger": "2021-01-18T14:20:00.000",
+"borough":"Staten Island",
+"animal_class":"Deer"
+},
+{
+"date_and_time_of_ranger": "2021-01-17T10:30:00.000",
+"borough":"Brooklyn",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-01-16T09:00:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-01-14T11:30:00.000",
+"borough":"Bronx",
+"animal_class":"Small Mammals-non RVS"
+},
+{
+"date_and_time_of_ranger": "2021-01-14T13:30:00.000",
+"borough":"Manhattan",
+"animal_class":"Coyotes"
+},
+{
+"date_and_time_of_ranger": "2021-01-14T11:15:00.000",
+"borough":"Bronx",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2021-01-14T12:10:00.000",
+"borough":"Staten Island",
+"animal_class":"Deer"
+},
+{
+"date_and_time_of_ranger": "2021-01-13T13:55:00.000",
+"borough":"Staten Island",
+"animal_class":"Deer"
+},
+{
+"date_and_time_of_ranger": "2021-01-13T16:00:00.000",
+"borough":"Brooklyn",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-01-13T12:00:00.000",
+"borough":"Brooklyn",
+"animal_class":"Domestic"
+},
+{
+"date_and_time_of_ranger": "2021-01-13T09:00:00.000",
+"borough":"Bronx",
+"animal_class":"Coyotes"
+},
+{
+"date_and_time_of_ranger": "2021-01-12T14:00:00.000",
+"borough":"Staten Island",
+"animal_class":"Raptors"
+},
+{
+"date_and_time_of_ranger": "2021-01-12T14:30:00.000",
+"borough":"Bronx",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-01-12T12:48:00.000",
+"borough":"Queens",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2021-01-10T10:30:00.000",
+"borough":"Brooklyn",
+"animal_class":"Raptors"
+},
+{
+"date_and_time_of_ranger": "2021-01-09T17:30:00.000",
+"borough":"Brooklyn",
+"animal_class":"Raptors"
+},
+{
+"date_and_time_of_ranger": "2021-01-06T11:30:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2019-10-18T11:50:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-01-08T16:15:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-01-08T11:35:00.000",
+"borough":"Queens",
+"animal_class":"Small Mammals-non RVS"
+},
+{
+"date_and_time_of_ranger": "2021-01-08T09:30:00.000",
+"borough":"Queens",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-01-08T09:00:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-01-08T10:00:00.000",
+"borough":"Bronx",
+"animal_class":"Coyotes"
+},
+{
+"date_and_time_of_ranger": "2021-01-07T04:05:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-non RVS"
+},
+{
+"date_and_time_of_ranger": "2021-01-07T14:00:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2021-01-07T10:30:00.000",
+"borough":"Manhattan",
+"animal_class":"Raptors"
+},
+{
+"date_and_time_of_ranger": "2021-01-06T15:30:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-01-06T14:15:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-01-06T12:00:00.000",
+"borough":"Bronx",
+"animal_class":"Small Mammals-non RVS"
+},
+{
+"date_and_time_of_ranger": "2021-01-04T14:20:00.000",
+"borough":"Bronx",
+"animal_class":"Domestic;#Birds"
+},
+{
+"date_and_time_of_ranger": "2021-01-02T14:10:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-01-02T12:00:00.000",
+"borough":"Bronx",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2021-01-02T10:30:00.000",
+"borough":"Brooklyn",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2021-01-02T11:00:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2021-01-01T14:00:00.000",
+"borough":"Manhattan",
+"animal_class":"Raptors"
+},
+{
+"date_and_time_of_ranger": "2020-12-31T12:00:00.000",
+"borough":"Bronx",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-12-31T11:30:00.000",
+"borough":"Brooklyn",
+"animal_class":"Domestic;#Birds"
+},
+{
+"date_and_time_of_ranger": "2020-12-30T15:35:00.000",
+"borough":"Manhattan",
+"animal_class":"Raptors"
+},
+{
+"date_and_time_of_ranger": "2020-12-30T14:00:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-12-30T15:30:00.000",
+"borough":"Queens",
+"animal_class":"Domestic;#Birds"
+},
+{
+"date_and_time_of_ranger": "2020-12-30T12:30:00.000",
+"borough":"Manhattan",
+"animal_class":"Raptors"
+},
+{
+"date_and_time_of_ranger": "2020-12-29T17:00:00.000",
+"borough":"Manhattan",
+"animal_class":"Raptors"
+},
+{
+"date_and_time_of_ranger": "2020-12-29T13:15:00.000",
+"borough":"Bronx",
+"animal_class":"Domestic;#Birds"
+},
+{
+"date_and_time_of_ranger": "2020-12-29T13:00:00.000",
+"borough":"Manhattan",
+"animal_class":"Domestic"
+},
+{
+"date_and_time_of_ranger": "2020-12-29T13:30:00.000",
+"borough":"Staten Island",
+"animal_class":"Deer"
+},
+{
+"date_and_time_of_ranger": "2020-12-27T15:20:00.000",
+"borough":"Bronx",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2020-12-26T15:50:00.000",
+"borough":"Queens",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2020-12-26T11:55:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-non RVS"
+},
+{
+"date_and_time_of_ranger": "2020-12-26T08:50:00.000",
+"borough":"Manhattan",
+"animal_class":"Coyotes"
+},
+{
+"date_and_time_of_ranger": "2020-12-24T13:00:00.000",
+"borough":"Bronx",
+"animal_class":"Deer"
+},
+{
+"date_and_time_of_ranger": "2020-12-24T11:12:00.000",
+"borough":"Queens",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-12-22T16:30:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-12-23T08:45:00.000",
+"borough":"Manhattan",
+"animal_class":"Domestic"
+},
+{
+"date_and_time_of_ranger": "2020-12-22T15:10:00.000",
+"borough":"Manhattan",
+"animal_class":"Raptors"
+},
+{
+"date_and_time_of_ranger": "2020-12-22T02:45:00.000",
+"borough":"Manhattan",
+"animal_class":"Raptors"
+},
+{
+"date_and_time_of_ranger": "2020-12-20T16:05:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-12-20T11:50:00.000",
+"borough":"Queens",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-12-20T12:00:00.000",
+"borough":"Brooklyn",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-12-20T08:29:00.000",
+"borough":"Queens",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2020-12-19T13:30:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-12-18T10:00:00.000",
+"borough":"Queens",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-12-18T13:00:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-12-17T12:00:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-non RVS"
+},
+{
+"date_and_time_of_ranger": "2020-12-16T13:50:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-12-16T13:20:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-12-16T12:05:00.000",
+"borough":"Bronx",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-12-15T15:15:00.000",
+"borough":"Manhattan",
+"animal_class":"Raptors"
+},
+{
+"date_and_time_of_ranger": "2020-12-15T14:35:00.000",
+"borough":"Queens",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2020-12-15T09:00:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2020-12-14T12:05:00.000",
+"borough":"Queens",
+"animal_class":"Domestic"
+},
+{
+"date_and_time_of_ranger": "2020-12-13T14:40:00.000",
+"borough":"Staten Island",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2020-12-13T10:30:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-12-13T11:15:00.000",
+"borough":"Queens",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2020-12-13T10:15:00.000",
+"borough":"Queens",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2020-12-13T00:45:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2020-12-13T11:00:00.000",
+"borough":"Bronx",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-12-12T13:00:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-non RVS"
+},
+{
+"date_and_time_of_ranger": "2020-12-11T14:50:00.000",
+"borough":"Queens",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-12-11T08:00:00.000",
+"borough":"Queens",
+"animal_class":"Domestic;#Birds"
+},
+{
+"date_and_time_of_ranger": "2020-12-11T10:00:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2020-12-10T10:30:00.000",
+"borough":"Bronx",
+"animal_class":"Coyotes"
+},
+{
+"date_and_time_of_ranger": "2020-12-09T12:00:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2020-12-08T10:26:00.000",
+"borough":"Queens",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2020-12-08T10:20:00.000",
+"borough":"Bronx",
+"animal_class":"Domestic;#Birds"
+},
+{
+"date_and_time_of_ranger": "2020-12-08T10:30:00.000",
+"borough":"Brooklyn",
+"animal_class":"Raptors"
+},
+{
+"date_and_time_of_ranger": "2020-12-07T14:40:00.000",
+"borough":"Queens",
+"animal_class":"Domestic;#Birds"
+},
+{
+"date_and_time_of_ranger": "2020-12-07T09:20:00.000",
+"borough":"Staten Island",
+"animal_class":"Domestic;#Birds"
+},
+{
+"date_and_time_of_ranger": "2020-12-07T13:55:00.000",
+"borough":"Staten Island",
+"animal_class":"Deer"
+},
+{
+"date_and_time_of_ranger": "2020-12-06T12:35:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-12-06T11:40:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-12-05T12:15:00.000",
+"borough":"Staten Island",
+"animal_class":"Domestic;#Birds"
+},
+{
+"date_and_time_of_ranger": "2020-12-05T11:20:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-12-04T13:30:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-12-04T11:00:00.000",
+"borough":"Bronx",
+"animal_class":"Deer"
+},
+{
+"date_and_time_of_ranger": "2020-12-03T04:30:00.000",
+"borough":"Queens",
+"animal_class":"Domestic;#Birds"
+},
+{
+"date_and_time_of_ranger": "2020-12-03T14:20:00.000",
+"borough":"Bronx",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2020-12-03T11:10:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-12-03T10:00:00.000",
+"borough":"Manhattan",
+"animal_class":"Raptors"
+},
+{
+"date_and_time_of_ranger": "2020-12-03T11:20:00.000",
+"borough":"Manhattan",
+"animal_class":"Raptors"
+},
+{
+"date_and_time_of_ranger": "2020-12-02T09:45:00.000",
+"borough":"Staten Island",
+"animal_class":"Domestic;#Birds"
+},
+{
+"date_and_time_of_ranger": "2020-12-02T13:20:00.000",
+"borough":"Staten Island",
+"animal_class":"Domestic;#Birds"
+},
+{
+"date_and_time_of_ranger": "2020-12-02T11:00:00.000",
+"borough":"Staten Island",
+"animal_class":"Small Mammals-non RVS"
+},
+{
+"date_and_time_of_ranger": "2020-12-02T11:46:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-non RVS"
+},
+{
+"date_and_time_of_ranger": "2020-12-01T16:05:00.000",
+"borough":"Manhattan",
+"animal_class":"Raptors"
+},
+{
+"date_and_time_of_ranger": "2020-12-01T09:32:00.000",
+"borough":"Bronx",
+"animal_class":"Deer"
+},
+{
+"date_and_time_of_ranger": "2020-11-30T13:00:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2020-11-30T15:17:00.000",
+"borough":"Queens",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-11-29T14:35:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-11-29T13:52:00.000",
+"borough":"Queens",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-11-28T14:50:00.000",
+"borough":"Bronx",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-11-27T13:30:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-11-27T14:10:00.000",
+"borough":"Queens",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-11-27T08:30:00.000",
+"borough":"Staten Island",
+"animal_class":"Deer"
+},
+{
+"date_and_time_of_ranger": "2020-11-25T16:52:00.000",
+"borough":"Queens",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2020-11-25T08:30:00.000",
+"borough":"Bronx",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2020-11-25T10:30:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-11-25T14:30:00.000",
+"borough":"Brooklyn",
+"animal_class":"Domestic"
+},
+{
+"date_and_time_of_ranger": "2020-11-24T14:15:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2020-11-24T12:00:00.000",
+"borough":"Brooklyn",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-11-24T13:05:00.000",
+"borough":"Queens",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-11-24T11:18:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-11-23T11:22:00.000",
+"borough":"Queens",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-11-23T10:45:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2020-11-21T13:30:00.000",
+"borough":"Brooklyn",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-11-20T13:30:00.000",
+"borough":"Bronx",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-11-20T11:40:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-11-19T12:50:00.000",
+"borough":"Brooklyn",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-11-19T08:30:00.000",
+"borough":"Brooklyn",
+"animal_class":"Terrestrial Reptile or Amphibian"
+},
+{
+"date_and_time_of_ranger": "2020-11-17T10:36:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-11-17T09:30:00.000",
+"borough":"Staten Island",
+"animal_class":"Deer"
+},
+{
+"date_and_time_of_ranger": "2020-11-17T09:40:00.000",
+"borough":"Bronx",
+"animal_class":"Raptors"
+},
+{
+"date_and_time_of_ranger": "2020-11-17T08:00:00.000",
+"borough":"Queens",
+"animal_class":"Domestic"
+},
+{
+"date_and_time_of_ranger": "2020-11-16T15:45:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-11-16T19:15:00.000",
+"borough":"Staten Island",
+"animal_class":"Deer"
+},
+{
+"date_and_time_of_ranger": "2020-11-15T16:10:00.000",
+"borough":"Manhattan",
+"animal_class":"Raptors"
+},
+{
+"date_and_time_of_ranger": "2020-11-16T09:40:00.000",
+"borough":"Manhattan",
+"animal_class":"Raptors"
+},
+{
+"date_and_time_of_ranger": "2020-11-14T17:30:00.000",
+"borough":"Queens",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-11-14T13:00:00.000",
+"borough":"Brooklyn",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-11-13T16:10:00.000",
+"borough":"Queens",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-11-12T12:20:00.000",
+"borough":"Bronx",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2020-11-11T13:30:00.000",
+"borough":"Bronx",
+"animal_class":"Terrestrial Reptile or Amphibian"
+},
+{
+"date_and_time_of_ranger": "2020-11-11T08:30:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-11-11T08:20:00.000",
+"borough":"Queens",
+"animal_class":"Raptors"
+},
+{
+"date_and_time_of_ranger": "2020-11-10T16:30:00.000",
+"borough":"Brooklyn",
+"animal_class":"Raptors"
+},
+{
+"date_and_time_of_ranger": "2020-11-10T09:00:00.000",
+"borough":"Brooklyn",
+"animal_class":"Domestic"
+},
+{
+"date_and_time_of_ranger": "2020-11-10T15:50:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-11-07T17:15:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-11-07T17:00:00.000",
+"borough":"Brooklyn",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2020-11-07T16:30:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-11-06T16:30:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-11-07T11:10:00.000",
+"borough":"Staten Island",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2020-11-06T09:45:00.000",
+"borough":"Queens",
+"animal_class":"Domestic;#Birds"
+},
+{
+"date_and_time_of_ranger": "2020-11-05T00:00:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-11-05T14:30:00.000",
+"borough":"Staten Island",
+"animal_class":"Deer"
+},
+{
+"date_and_time_of_ranger": "2020-11-04T10:30:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-11-04T08:30:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-non RVS"
+},
+{
+"date_and_time_of_ranger": "2020-11-04T08:05:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-11-03T16:24:00.000",
+"borough":"Queens",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-11-03T11:50:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2020-11-03T10:30:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-non RVS"
+},
+{
+"date_and_time_of_ranger": "2020-11-03T11:30:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-11-02T12:30:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-10-30T17:45:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-10-31T12:40:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-10-30T13:30:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-10-02T18:00:00.000",
+"borough":"Bronx",
+"animal_class":"Domestic"
+},
+{
+"date_and_time_of_ranger": "2020-10-02T17:00:00.000",
+"borough":"Bronx",
+"animal_class":"Raptors"
+},
+{
+"date_and_time_of_ranger": "2020-10-28T16:10:00.000",
+"borough":"Queens",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2020-10-28T12:00:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-10-27T11:00:00.000",
+"borough":"Queens",
+"animal_class":"Small Mammals-non RVS"
+},
+{
+"date_and_time_of_ranger": "2020-10-25T14:15:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2020-10-26T12:03:00.000",
+"borough":"Staten Island",
+"animal_class":"Deer"
+},
+{
+"date_and_time_of_ranger": "2020-10-25T08:46:00.000",
+"borough":"Queens",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2020-10-25T09:25:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-10-24T14:30:00.000",
+"borough":"Staten Island",
+"animal_class":"Terrestrial Reptile or Amphibian"
+},
+{
+"date_and_time_of_ranger": "2020-10-24T14:00:00.000",
+"borough":"Staten Island",
+"animal_class":"Small Mammals-non RVS"
+},
+{
+"date_and_time_of_ranger": "2020-10-24T13:00:00.000",
+"borough":"Brooklyn",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2020-10-23T16:05:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-10-23T16:15:00.000",
+"borough":"Brooklyn",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-10-23T12:30:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-10-23T15:50:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-10-23T09:15:00.000",
+"borough":"Brooklyn",
+"animal_class":"Domestic"
+},
+{
+"date_and_time_of_ranger": "2020-10-22T16:15:00.000",
+"borough":"Queens",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-10-22T15:45:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2020-10-21T14:35:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-10-20T17:40:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-10-21T09:00:00.000",
+"borough":"Manhattan",
+"animal_class":"Domestic"
+},
+{
+"date_and_time_of_ranger": "2020-10-21T12:40:00.000",
+"borough":"Queens",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2020-10-20T13:00:00.000",
+"borough":"Brooklyn",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-10-20T14:25:00.000",
+"borough":"Queens",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2020-10-20T12:00:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-10-19T12:00:00.000",
+"borough":"Brooklyn",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2020-10-18T14:30:00.000",
+"borough":"Brooklyn",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2020-10-18T08:00:00.000",
+"borough":"Brooklyn",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2020-10-17T13:00:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2020-10-17T08:30:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-10-17T16:30:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-08-28T13:00:00.000",
+"borough":"Queens",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-10-16T09:30:00.000",
+"borough":"Brooklyn",
+"animal_class":"Small Mammals-non RVS"
+},
+{
+"date_and_time_of_ranger": "2020-10-15T14:45:00.000",
+"borough":"Brooklyn",
+"animal_class":"Raptors"
+},
+{
+"date_and_time_of_ranger": "2020-10-15T16:30:00.000",
+"borough":"Manhattan",
+"animal_class":"Raptors"
+},
+{
+"date_and_time_of_ranger": "2020-10-15T13:00:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-10-15T10:15:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-10-14T14:30:00.000",
+"borough":"Bronx",
+"animal_class":"Domestic"
+},
+{
+"date_and_time_of_ranger": "2020-10-14T13:30:00.000",
+"borough":"Bronx",
+"animal_class":"Domestic"
+},
+{
+"date_and_time_of_ranger": "2020-10-14T14:00:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-10-14T10:00:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-10-13T17:30:00.000",
+"borough":"Brooklyn",
+"animal_class":"Raptors"
+},
+{
+"date_and_time_of_ranger": "2020-10-13T14:25:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-10-12T16:00:00.000",
+"borough":"Brooklyn",
+"animal_class":"Small Mammals-non RVS"
+},
+{
+"date_and_time_of_ranger": "2020-10-11T10:00:00.000",
+"borough":"Brooklyn",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-10-10T15:00:00.000",
+"borough":"Manhattan",
+"animal_class":"Raptors"
+},
+{
+"date_and_time_of_ranger": "2020-10-10T13:20:00.000",
+"borough":"Brooklyn",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-10-10T15:30:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-10-09T15:10:00.000",
+"borough":"Manhattan",
+"animal_class":"Raptors"
+},
+{
+"date_and_time_of_ranger": "2020-10-09T10:45:00.000",
+"borough":"Staten Island",
+"animal_class":"Small Mammals-non RVS"
+},
+{
+"date_and_time_of_ranger": "2020-10-09T13:00:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-10-09T09:12:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-10-08T09:30:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-10-07T10:00:00.000",
+"borough":"Manhattan",
+"animal_class":"Terrestrial Reptile or Amphibian"
+},
+{
+"date_and_time_of_ranger": "2020-10-06T17:00:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-non RVS"
+},
+{
+"date_and_time_of_ranger": "2020-10-03T13:50:00.000",
+"borough":"Staten Island",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2020-10-06T10:12:00.000",
+"borough":"Staten Island",
+"animal_class":"Terrestrial Reptile or Amphibian"
+},
+{
+"date_and_time_of_ranger": "2020-10-06T09:45:00.000",
+"borough":"Brooklyn",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-10-05T14:21:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-10-04T14:30:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-10-04T12:16:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-10-03T16:30:00.000",
+"borough":"Bronx",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-10-03T14:30:00.000",
+"borough":"Bronx",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-10-03T09:00:00.000",
+"borough":"Staten Island",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2020-10-02T23:30:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-non RVS"
+},
+{
+"date_and_time_of_ranger": "2020-10-02T11:45:00.000",
+"borough":"Brooklyn",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-10-01T14:00:00.000",
+"borough":"Staten Island",
+"animal_class":"Small Mammals-non RVS"
+},
+{
+"date_and_time_of_ranger": "2020-09-30T13:30:00.000",
+"borough":"Brooklyn",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-09-30T11:05:00.000",
+"borough":"Brooklyn",
+"animal_class":"Terrestrial Reptile or Amphibian"
+},
+{
+"date_and_time_of_ranger": "2020-09-30T14:00:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-non RVS"
+},
+{
+"date_and_time_of_ranger": "2020-09-30T09:20:00.000",
+"borough":"Manhattan",
+"animal_class":"Domestic"
+},
+{
+"date_and_time_of_ranger": "2020-09-29T17:00:00.000",
+"borough":"Manhattan",
+"animal_class":"Terrestrial Reptile or Amphibian"
+},
+{
+"date_and_time_of_ranger": "2020-09-28T14:00:00.000",
+"borough":"Brooklyn",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-09-29T15:00:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-09-29T12:20:00.000",
+"borough":"Queens",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-09-29T09:10:00.000",
+"borough":"Queens",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-09-28T13:15:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2020-09-27T13:45:00.000",
+"borough":"Brooklyn",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-09-28T14:40:00.000",
+"borough":"Queens",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-09-28T08:20:00.000",
+"borough":"Staten Island",
+"animal_class":"Terrestrial Reptile or Amphibian"
+},
+{
+"date_and_time_of_ranger": "2020-09-27T11:00:00.000",
+"borough":"Queens",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2020-09-26T12:00:00.000",
+"borough":"Brooklyn",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-09-26T13:15:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-09-26T14:00:00.000",
+"borough":"Bronx",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2020-09-26T13:00:00.000",
+"borough":"Bronx",
+"animal_class":"Small Mammals-non RVS"
+},
+{
+"date_and_time_of_ranger": "2020-09-26T09:40:00.000",
+"borough":"Queens",
+"animal_class":"Small Mammals-non RVS"
+},
+{
+"date_and_time_of_ranger": "2020-09-26T12:30:00.000",
+"borough":"Brooklyn",
+"animal_class":"Small Mammals-non RVS"
+},
+{
+"date_and_time_of_ranger": "2020-09-25T14:45:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2020-09-24T12:00:00.000",
+"borough":"Brooklyn",
+"animal_class":"Deer"
+},
+{
+"date_and_time_of_ranger": "2020-09-24T17:00:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-non RVS"
+},
+{
+"date_and_time_of_ranger": "2020-09-24T00:00:00.000",
+"borough":"Staten Island",
+"animal_class":"Small Mammals-non RVS"
+},
+{
+"date_and_time_of_ranger": "2020-09-23T08:55:00.000",
+"borough":"Manhattan",
+"animal_class":"Domestic"
+},
+{
+"date_and_time_of_ranger": "2020-09-23T09:00:00.000",
+"borough":"Queens",
+"animal_class":"Domestic"
+},
+{
+"date_and_time_of_ranger": "2020-09-22T11:00:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-09-21T11:50:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-non RVS"
+},
+{
+"date_and_time_of_ranger": "2020-09-21T16:25:00.000",
+"borough":"Bronx",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-09-20T15:45:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2020-09-20T13:35:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-09-20T12:00:00.000",
+"borough":"Brooklyn",
+"animal_class":"Terrestrial Reptile or Amphibian"
+},
+{
+"date_and_time_of_ranger": "2020-09-19T15:00:00.000",
+"borough":"Staten Island",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2020-09-19T11:30:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2020-09-19T09:00:00.000",
+"borough":"Staten Island",
+"animal_class":"Small Mammals-non RVS"
+},
+{
+"date_and_time_of_ranger": "2020-09-17T13:00:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2020-09-16T17:30:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-09-16T16:40:00.000",
+"borough":"Manhattan",
+"animal_class":"Domestic"
+},
+{
+"date_and_time_of_ranger": "2020-09-16T11:00:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2020-09-16T09:30:00.000",
+"borough":"Queens",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-09-15T14:30:00.000",
+"borough":"Brooklyn",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-09-15T08:30:00.000",
+"borough":"Brooklyn",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-09-14T13:34:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-09-15T08:50:00.000",
+"borough":"Staten Island",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2020-09-14T11:30:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-09-14T13:30:00.000",
+"borough":"Bronx",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-09-14T12:35:00.000",
+"borough":"Queens",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-09-13T17:47:00.000",
+"borough":"Staten Island",
+"animal_class":"Domestic"
+},
+{
+"date_and_time_of_ranger": "2020-09-14T09:00:00.000",
+"borough":"Queens",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-09-13T11:30:00.000",
+"borough":"Brooklyn",
+"animal_class":"Small Mammals-non RVS"
+},
+{
+"date_and_time_of_ranger": "2020-09-13T09:40:00.000",
+"borough":"Brooklyn",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-09-13T12:50:00.000",
+"borough":"Staten Island",
+"animal_class":"Small Mammals-non RVS"
+},
+{
+"date_and_time_of_ranger": "2020-09-13T11:35:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-09-12T16:50:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-09-12T11:00:00.000",
+"borough":"Manhattan",
+"animal_class":"Terrestrial Reptile or Amphibian"
+},
+{
+"date_and_time_of_ranger": "2020-09-12T09:30:00.000",
+"borough":"Brooklyn",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-09-12T11:00:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-09-12T08:30:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-09-12T09:00:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-09-11T16:40:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-09-10T16:45:00.000",
+"borough":"Manhattan",
+"animal_class":"Raptors"
+},
+{
+"date_and_time_of_ranger": "2020-09-10T13:50:00.000",
+"borough":"Queens",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-09-10T14:00:00.000",
+"borough":"Bronx",
+"animal_class":"Domestic;#Birds"
+},
+{
+"date_and_time_of_ranger": "2020-09-10T10:30:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-09-10T13:10:00.000",
+"borough":"Brooklyn",
+"animal_class":"Domestic"
+},
+{
+"date_and_time_of_ranger": "2020-09-10T11:45:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2020-09-09T16:30:00.000",
+"borough":"Staten Island",
+"animal_class":"Deer"
+},
+{
+"date_and_time_of_ranger": "2020-09-09T16:25:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-non RVS"
+},
+{
+"date_and_time_of_ranger": "2020-09-09T10:15:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-09-09T07:50:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2020-09-09T08:25:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-09-07T12:50:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2020-09-08T08:30:00.000",
+"borough":"Brooklyn",
+"animal_class":"Terrestrial Reptile or Amphibian"
+},
+{
+"date_and_time_of_ranger": "2020-09-08T09:30:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2020-09-07T09:55:00.000",
+"borough":"Queens",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-09-06T15:10:00.000",
+"borough":"Bronx",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2020-09-06T15:00:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-09-05T13:45:00.000",
+"borough":"Bronx",
+"animal_class":"Terrestrial Reptile or Amphibian"
+},
+{
+"date_and_time_of_ranger": "2020-09-05T16:00:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-non RVS"
+},
+{
+"date_and_time_of_ranger": "2020-09-05T10:30:00.000",
+"borough":"Queens",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2020-09-05T10:15:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-09-05T13:15:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-non RVS"
+},
+{
+"date_and_time_of_ranger": "2020-09-05T09:40:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-non RVS"
+},
+{
+"date_and_time_of_ranger": "2020-09-03T15:15:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-09-03T14:00:00.000",
+"borough":"Staten Island",
+"animal_class":"Terrestrial Reptile or Amphibian"
+},
+{
+"date_and_time_of_ranger": "2020-09-04T14:03:00.000",
+"borough":"Queens",
+"animal_class":"Terrestrial Reptile or Amphibian"
+},
+{
+"date_and_time_of_ranger": "2020-09-03T10:30:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-09-02T13:50:00.000",
+"borough":"Brooklyn",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-09-02T10:36:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-09-02T11:01:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-09-01T14:20:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-08-29T13:50:00.000",
+"borough":"Staten Island",
+"animal_class":"Raptors"
+},
+{
+"date_and_time_of_ranger": "2020-08-31T12:00:00.000",
+"borough":"Bronx",
+"animal_class":"Deer"
+},
+{
+"date_and_time_of_ranger": "2020-08-31T14:30:00.000",
+"borough":"Brooklyn",
+"animal_class":"Raptors"
+},
+{
+"date_and_time_of_ranger": "2020-08-30T11:45:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2020-08-30T11:00:00.000",
+"borough":"Brooklyn",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2020-08-27T18:15:00.000",
+"borough":"Brooklyn",
+"animal_class":"Domestic;#Birds"
+},
+{
+"date_and_time_of_ranger": "2020-08-29T09:05:00.000",
+"borough":"Brooklyn",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-08-28T10:30:00.000",
+"borough":"Queens",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2020-08-28T11:00:00.000",
+"borough":"Bronx",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2020-08-28T09:05:00.000",
+"borough":"Brooklyn",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-08-27T14:50:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-08-27T09:50:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-08-27T15:15:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-08-26T18:00:00.000",
+"borough":"Queens",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-08-26T11:30:00.000",
+"borough":"Manhattan",
+"animal_class":"Raptors"
+},
+{
+"date_and_time_of_ranger": "2020-08-26T10:08:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-08-26T09:30:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-08-08T08:40:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2020-08-22T16:45:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2020-08-22T09:35:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-non RVS"
+},
+{
+"date_and_time_of_ranger": "2020-08-22T08:30:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-08-21T12:30:00.000",
+"borough":"Manhattan",
+"animal_class":"Raptors"
+},
+{
+"date_and_time_of_ranger": "2020-08-21T10:40:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-08-21T09:40:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-08-20T11:00:00.000",
+"borough":"Brooklyn",
+"animal_class":"Small Mammals-non RVS"
+},
+{
+"date_and_time_of_ranger": "2020-08-20T17:45:00.000",
+"borough":"Brooklyn",
+"animal_class":"Small Mammals-non RVS"
+},
+{
+"date_and_time_of_ranger": "2020-08-19T13:30:00.000",
+"borough":"Queens",
+"animal_class":"Small Mammals-non RVS"
+},
+{
+"date_and_time_of_ranger": "2020-08-18T12:30:00.000",
+"borough":"Brooklyn",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-08-18T12:15:00.000",
+"borough":"Bronx",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-08-17T15:20:00.000",
+"borough":"Queens",
+"animal_class":"Raptors"
+},
+{
+"date_and_time_of_ranger": "2020-08-18T12:33:00.000",
+"borough":"Queens",
+"animal_class":"Terrestrial Reptile or Amphibian"
+},
+{
+"date_and_time_of_ranger": "2020-08-18T10:41:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-08-16T20:10:00.000",
+"borough":"Queens",
+"animal_class":"Raptors"
+},
+{
+"date_and_time_of_ranger": "2020-08-16T10:00:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-08-14T15:30:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-08-14T10:00:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2020-08-14T09:30:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-08-13T11:36:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-08-13T10:50:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-08-12T16:00:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-08-12T14:45:00.000",
+"borough":"Brooklyn",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-08-12T08:00:00.000",
+"borough":"Brooklyn",
+"animal_class":"Fish-numerous quantity"
+},
+{
+"date_and_time_of_ranger": "2020-08-12T10:30:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2020-08-12T11:30:00.000",
+"borough":"Staten Island",
+"animal_class":"Marine Reptiles"
+},
+{
+"date_and_time_of_ranger": "2020-08-11T16:00:00.000",
+"borough":"Brooklyn",
+"animal_class":"Domestic"
+},
+{
+"date_and_time_of_ranger": "2020-08-11T13:20:00.000",
+"borough":"Staten Island",
+"animal_class":"Raptors"
+},
+{
+"date_and_time_of_ranger": "2020-08-10T16:00:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2020-08-09T00:00:00.000",
+"borough":"Queens",
+"animal_class":"Domestic"
+},
+{
+"date_and_time_of_ranger": "2020-08-09T18:20:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-08-09T09:00:00.000",
+"borough":"Bronx",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-08-09T12:10:00.000",
+"borough":"Bronx",
+"animal_class":"Small Mammals-non RVS"
+},
+{
+"date_and_time_of_ranger": "2020-08-08T16:00:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-08-07T13:00:00.000",
+"borough":"Bronx",
+"animal_class":"Terrestrial Reptile or Amphibian"
+},
+{
+"date_and_time_of_ranger": "2020-08-07T13:30:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-08-06T18:15:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-08-05T16:30:00.000",
+"borough":"Bronx",
+"animal_class":"Small Mammals-non RVS"
+},
+{
+"date_and_time_of_ranger": "2020-08-05T15:15:00.000",
+"borough":"Bronx",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2020-08-05T09:25:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-08-02T11:20:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2020-08-05T09:15:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-08-02T16:00:00.000",
+"borough":"Brooklyn",
+"animal_class":"Terrestrial Reptile or Amphibian"
+},
+{
+"date_and_time_of_ranger": "2020-08-02T18:18:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-08-02T10:20:00.000",
+"borough":"Bronx",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2020-08-01T18:00:00.000",
+"borough":"Bronx",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-08-01T16:00:00.000",
+"borough":"Queens",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2020-07-31T14:00:00.000",
+"borough":"Queens",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-07-31T12:00:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-07-30T15:45:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-07-30T17:00:00.000",
+"borough":"Queens",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-07-30T10:15:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-07-29T18:00:00.000",
+"borough":"Brooklyn",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-07-29T12:00:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-07-29T09:20:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-non RVS"
+},
+{
+"date_and_time_of_ranger": "2020-07-28T13:45:00.000",
+"borough":"Staten Island",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2020-07-28T10:50:00.000",
+"borough":"Staten Island",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2020-07-28T10:00:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-07-28T09:00:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-07-27T16:00:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-07-27T14:30:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2020-07-26T16:45:00.000",
+"borough":"Bronx",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-07-27T13:30:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-07-27T09:15:00.000",
+"borough":"Staten Island",
+"animal_class":"Raptors"
+},
+{
+"date_and_time_of_ranger": "2020-07-24T14:45:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-07-24T11:30:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-07-24T18:00:00.000",
+"borough":"Brooklyn",
+"animal_class":"Domestic"
+},
+{
+"date_and_time_of_ranger": "2020-07-24T09:30:00.000",
+"borough":"Queens",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2020-07-22T16:03:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-07-22T13:00:00.000",
+"borough":"Manhattan",
+"animal_class":"Terrestrial Reptile or Amphibian"
+},
+{
+"date_and_time_of_ranger": "2020-07-22T09:10:00.000",
+"borough":"Staten Island",
+"animal_class":"Deer"
+},
+{
+"date_and_time_of_ranger": "2020-07-22T15:45:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-07-22T15:15:00.000",
+"borough":"Staten Island",
+"animal_class":"Domestic;#Birds"
+},
+{
+"date_and_time_of_ranger": "2020-07-22T13:30:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-07-21T11:00:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2020-07-21T15:10:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-07-21T09:15:00.000",
+"borough":"Staten Island",
+"animal_class":"Deer"
+},
+{
+"date_and_time_of_ranger": "2020-07-20T14:30:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2020-07-20T12:00:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2020-07-20T10:19:00.000",
+"borough":"Staten Island",
+"animal_class":"Small Mammals-non RVS"
+},
+{
+"date_and_time_of_ranger": "2020-07-20T10:00:00.000",
+"borough":"Staten Island",
+"animal_class":"Small Mammals-non RVS"
+},
+{
+"date_and_time_of_ranger": "2020-07-19T18:50:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-07-19T15:00:00.000",
+"borough":"Bronx",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-07-15T15:50:00.000",
+"borough":"Staten Island",
+"animal_class":"Rare, Endangered, Dangerous"
+},
+{
+"date_and_time_of_ranger": "2020-07-18T16:10:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-07-17T16:00:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-07-17T14:00:00.000",
+"borough":"Bronx",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-07-17T11:00:00.000",
+"borough":"Bronx",
+"animal_class":"Small Mammals-non RVS"
+},
+{
+"date_and_time_of_ranger": "2020-07-17T16:00:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-07-17T15:00:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-07-17T13:21:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-07-17T11:55:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-07-17T10:45:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-07-16T17:00:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-07-16T16:40:00.000",
+"borough":"Queens",
+"animal_class":"Domestic"
+},
+{
+"date_and_time_of_ranger": "2020-07-16T07:00:00.000",
+"borough":"Brooklyn",
+"animal_class":"Domestic;#Birds"
+},
+{
+"date_and_time_of_ranger": "2020-07-16T08:42:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-non RVS"
+},
+{
+"date_and_time_of_ranger": "2020-07-15T17:00:00.000",
+"borough":"Brooklyn",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-07-07T16:00:00.000",
+"borough":"Brooklyn",
+"animal_class":"Terrestrial Reptile or Amphibian"
+},
+{
+"date_and_time_of_ranger": "2020-07-15T09:30:00.000",
+"borough":"Brooklyn",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-07-15T10:05:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-07-15T09:30:00.000",
+"borough":"Manhattan",
+"animal_class":"Raptors"
+},
+{
+"date_and_time_of_ranger": "2020-07-14T17:00:00.000",
+"borough":"Manhattan",
+"animal_class":"Raptors"
+},
+{
+"date_and_time_of_ranger": "2020-07-13T13:30:00.000",
+"borough":"Brooklyn",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-07-14T11:05:00.000",
+"borough":"Queens",
+"animal_class":"Domestic;#Birds"
+},
+{
+"date_and_time_of_ranger": "2020-07-13T11:20:00.000",
+"borough":"Queens",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2020-07-14T09:30:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2020-07-13T18:00:00.000",
+"borough":"Brooklyn",
+"animal_class":"Raptors"
+},
+{
+"date_and_time_of_ranger": "2020-07-12T16:30:00.000",
+"borough":"Brooklyn",
+"animal_class":"Small Mammals-non RVS"
+},
+{
+"date_and_time_of_ranger": "2020-07-12T14:22:00.000",
+"borough":"Queens",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-07-11T14:45:00.000",
+"borough":"Brooklyn",
+"animal_class":"Domestic"
+},
+{
+"date_and_time_of_ranger": "2020-07-11T08:45:00.000",
+"borough":"Queens",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-07-09T14:30:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-07-09T13:30:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-07-09T11:30:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-07-09T08:50:00.000",
+"borough":"Brooklyn",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-07-09T10:25:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-07-08T10:46:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2020-07-08T11:05:00.000",
+"borough":"Staten Island",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2020-07-07T17:24:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-07-07T16:21:00.000",
+"borough":"Staten Island",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2020-07-07T11:30:00.000",
+"borough":"Manhattan",
+"animal_class":"Terrestrial Reptile or Amphibian"
+},
+{
+"date_and_time_of_ranger": "2020-07-07T09:00:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-07-07T10:51:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-07-06T13:30:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-07-06T14:30:00.000",
+"borough":"Queens",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-07-05T16:15:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-07-06T14:45:00.000",
+"borough":"Manhattan",
+"animal_class":"Terrestrial Reptile or Amphibian"
+},
+{
+"date_and_time_of_ranger": "2020-07-04T17:45:00.000",
+"borough":"Brooklyn",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-07-04T13:45:00.000",
+"borough":"Queens",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-07-03T18:15:00.000",
+"borough":"Brooklyn",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-07-03T10:00:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-07-03T09:25:00.000",
+"borough":"Queens",
+"animal_class":"Raptors"
+},
+{
+"date_and_time_of_ranger": "2020-07-02T17:00:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-07-02T16:10:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-07-02T10:20:00.000",
+"borough":"Staten Island",
+"animal_class":"Domestic"
+},
+{
+"date_and_time_of_ranger": "2020-07-02T10:45:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-07-02T10:20:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-07-01T14:18:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-07-01T15:22:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-07-01T14:18:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-non RVS"
+},
+{
+"date_and_time_of_ranger": "2020-07-01T11:35:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-07-01T09:15:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-non RVS"
+},
+{
+"date_and_time_of_ranger": "2020-07-01T10:12:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-07-01T11:30:00.000",
+"borough":"Manhattan",
+"animal_class":"Fish-numerous quantity"
+},
+{
+"date_and_time_of_ranger": "2020-06-30T09:35:00.000",
+"borough":"Bronx",
+"animal_class":"Small Mammals-non RVS"
+},
+{
+"date_and_time_of_ranger": "2020-06-30T15:42:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-non RVS"
+},
+{
+"date_and_time_of_ranger": "2020-06-30T08:35:00.000",
+"borough":"Queens",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2020-06-30T10:00:00.000",
+"borough":"Brooklyn",
+"animal_class":"Domestic"
+},
+{
+"date_and_time_of_ranger": "2020-06-29T15:45:00.000",
+"borough":"Queens",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-06-29T10:47:00.000",
+"borough":"Queens",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-06-29T10:45:00.000",
+"borough":"Staten Island",
+"animal_class":"Terrestrial Reptile or Amphibian"
+},
+{
+"date_and_time_of_ranger": "2020-06-28T11:26:00.000",
+"borough":"Bronx",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-06-27T10:30:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-06-26T09:00:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-non RVS"
+},
+{
+"date_and_time_of_ranger": "2020-06-26T10:15:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-06-25T16:00:00.000",
+"borough":"Staten Island",
+"animal_class":"Terrestrial Reptile or Amphibian"
+},
+{
+"date_and_time_of_ranger": "2020-06-25T10:10:00.000",
+"borough":"Staten Island",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2020-06-24T18:25:00.000",
+"borough":"Queens",
+"animal_class":"Terrestrial Reptile or Amphibian"
+},
+{
+"date_and_time_of_ranger": "2020-06-24T12:00:00.000",
+"borough":"Staten Island",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2020-06-24T14:00:00.000",
+"borough":"Bronx",
+"animal_class":"Coyotes"
+},
+{
+"date_and_time_of_ranger": "2020-06-24T13:35:00.000",
+"borough":"Bronx",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-06-23T14:00:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-06-20T10:20:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-06-22T14:50:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-06-22T15:45:00.000",
+"borough":"Queens",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-06-21T11:30:00.000",
+"borough":"Brooklyn",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-06-22T11:28:00.000",
+"borough":"Staten Island",
+"animal_class":"Small Mammals-non RVS"
+},
+{
+"date_and_time_of_ranger": "2020-06-22T13:30:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-06-22T12:00:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2020-06-20T12:15:00.000",
+"borough":"Bronx",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2020-06-20T11:15:00.000",
+"borough":"Queens",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2020-06-19T09:00:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-06-18T14:00:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-06-20T08:15:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-06-19T18:20:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-06-19T14:30:00.000",
+"borough":"Bronx",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-06-19T10:00:00.000",
+"borough":"Queens",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-06-19T11:10:00.000",
+"borough":"Queens",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-06-19T11:20:00.000",
+"borough":"Manhattan",
+"animal_class":"Terrestrial Reptile or Amphibian"
+},
+{
+"date_and_time_of_ranger": "2020-06-19T08:20:00.000",
+"borough":"Bronx",
+"animal_class":"Terrestrial Reptile or Amphibian"
+},
+{
+"date_and_time_of_ranger": "2020-06-18T15:30:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-06-17T14:10:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-06-17T10:30:00.000",
+"borough":"Manhattan",
+"animal_class":"Raptors"
+},
+{
+"date_and_time_of_ranger": "2020-06-16T17:00:00.000",
+"borough":"Staten Island",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2020-06-16T15:30:00.000",
+"borough":"Brooklyn",
+"animal_class":"Terrestrial Reptile or Amphibian"
+},
+{
+"date_and_time_of_ranger": "2020-06-16T14:30:00.000",
+"borough":"Staten Island",
+"animal_class":"Terrestrial Reptile or Amphibian"
+},
+{
+"date_and_time_of_ranger": "2020-06-16T15:30:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2020-06-16T10:00:00.000",
+"borough":"Brooklyn",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2020-06-15T15:30:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-06-15T08:30:00.000",
+"borough":"Manhattan",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2020-06-15T09:45:00.000",
+"borough":"Bronx",
+"animal_class":"Domestic"
+},
+{
+"date_and_time_of_ranger": "2020-06-14T17:00:00.000",
+"borough":"Staten Island",
+"animal_class":"Terrestrial Reptile or Amphibian"
+},
+{
+"date_and_time_of_ranger": "2020-06-15T14:00:00.000",
+"borough":"Bronx",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-06-14T16:15:00.000",
+"borough":"Staten Island",
+"animal_class":"Terrestrial Reptile or Amphibian"
+},
+{
+"date_and_time_of_ranger": "2020-06-14T13:30:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-06-14T12:10:00.000",
+"borough":"Queens",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-06-13T10:45:00.000",
+"borough":"Manhattan",
+"animal_class":"Domestic;#Birds"
+},
+{
+"date_and_time_of_ranger": "2020-06-12T16:22:00.000",
+"borough":"Queens",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-06-13T10:22:00.000",
+"borough":"Queens",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-06-11T11:30:00.000",
+"borough":"Staten Island",
+"animal_class":"Terrestrial Reptile or Amphibian"
+},
+{
+"date_and_time_of_ranger": "2020-06-11T10:30:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-06-13T11:00:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-06-12T08:43:00.000",
+"borough":"Bronx",
+"animal_class":"Deer"
+},
+{
+"date_and_time_of_ranger": "2020-06-12T15:30:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-06-12T15:00:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-06-12T15:30:00.000",
+"borough":"Queens",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2020-06-12T13:17:00.000",
+"borough":"Queens",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2020-06-12T00:15:00.000",
+"borough":"Queens",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-06-12T12:00:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-06-11T17:00:00.000",
+"borough":"Staten Island",
+"animal_class":"Terrestrial Reptile or Amphibian"
+},
+{
+"date_and_time_of_ranger": "2020-06-11T16:55:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-06-11T15:55:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-06-11T14:15:00.000",
+"borough":"Queens",
+"animal_class":"Small Mammals-RVS"
+},
+{
+"date_and_time_of_ranger": "2020-06-11T10:30:00.000",
+"borough":"Brooklyn",
+"animal_class":"Domestic"
+},
+{
+"date_and_time_of_ranger": "2020-06-10T12:00:00.000",
+"borough":"Brooklyn",
+"animal_class":"Domestic"
+},
+{
+"date_and_time_of_ranger": "2020-05-04T10:00:00.000",
+"borough":"Staten Island",
+"animal_class":"Raptors"
+},
+{
+"date_and_time_of_ranger": "2020-05-04T11:00:00.000",
+"borough":"Staten Island",
+"animal_class":"Raptors"
+},
+{
+"date_and_time_of_ranger": "2020-04-20T09:30:00.000",
+"borough":"Staten Island",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-05-25T17:00:00.000",
+"borough":"Staten Island",
+"animal_class":"Terrestrial Reptile or Amphibian"
+},
+{
+"date_and_time_of_ranger": "2020-06-10T14:00:00.000",
+"borough":"Brooklyn",
+"animal_class":"Domestic"
+},
+{
+"date_and_time_of_ranger": "2020-06-08T16:30:00.000",
+"borough":"Brooklyn",
+"animal_class":"Terrestrial Reptile or Amphibian"
+},
+{
+"date_and_time_of_ranger": "2020-06-08T14:06:00.000",
+"borough":"Bronx",
+"animal_class":"Terrestrial Reptile or Amphibian"
+},
+{
+"date_and_time_of_ranger": "2020-06-07T16:30:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-06-07T16:56:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-06-07T15:10:00.000",
+"borough":"Manhattan",
+"animal_class":"Birds"
+},
+{
+"date_and_time_of_ranger": "2020-06-07T09:45:00.000",
+"borough":"Brooklyn",
+"animal_class":"Small Mammals-non RVS"
+},
+{
+"date_and_time_of_ranger": "2020-06-06T14:00:00.000",
+"borough":"Brooklyn",
+"animal_class":"Birds"
+}
+]
+
+
